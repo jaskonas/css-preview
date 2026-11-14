@@ -94,3 +94,6 @@ exclude:
   - tmp
   - tools
   - _config.preview.yml
+  - vendor
+  - .github
+  - .bundle
