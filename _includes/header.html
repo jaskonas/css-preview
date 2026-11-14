@@ -12,13 +12,13 @@
       <nav class="top-nav" role="navigation" aria-label="Primary">
         <ul>
         {% for link in site.data.navigation %}
-          {% if link.archive %}{% assign href = link.url | prepend: site.archive %}{% else %}{% assign href = link.url | relative_url %}{% endif %}
+          {% assign href = link.url | relative_url %}
           <li{% if link.children %} class="has-children"{% endif %}>
-            <a href="{{ href }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+            <a href="{{ href }}"{% if page.url == link.url or page.parent_url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
             {% if link.children %}
             <ul class="sub-nav">
               {% for child in link.children %}
-              {% if child.archive %}{% assign chref = child.url | prepend: site.archive %}{% elsif child.url contains "://" %}{% assign chref = child.url %}{% else %}{% assign chref = child.url | relative_url %}{% endif %}
+              {% if child.url contains "://" %}{% assign chref = child.url %}{% else %}{% assign chref = child.url | relative_url %}{% endif %}
               <li><a href="{{ chref }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
               {% endfor %}
             </ul>

@@ -1,0 +1,122 @@
+# Epistulae issues, newest first. `html: true` = an HTML edition exists at /epistulae-no-N/.
+# PDFs are mirrored under /uploads/.
+- number: 20
+  category: "Morality & Foreign Policy"
+  title: "Militarism and the Crisis of American Diplomacy"
+  author: "Chas W. Freeman"
+  pdf: /uploads/2021/11/epistulae20.pdf
+  html: true
+- number: 19
+  category: "Politics & Culture"
+  title: "Kirk’s Conservative Canons and the Case for Academic Freedom"
+  author: "Luke Sheahan"
+  pdf: /uploads/2021/11/epistulae19.pdf
+  html: true
+- number: 18
+  category: "Politics & Culture"
+  title: "Allan Bloom and Straussian Alienation"
+  author: "Claes G. Ryn"
+  pdf: /uploads/2021/11/epistulae18.pdf
+  html: true
+- number: 17
+  category: "Constitutionalism"
+  title: "Drone Controversy Reveals Crumbling of Constitutionalism"
+  author: "Joseph Baldacchino"
+  pdf: /uploads/2021/11/epistulae17.pdf
+  html: true
+- number: 16
+  category: "Morality & Politics"
+  title: "Where in the World Are We Going?"
+  author: "Claes G. Ryn"
+  pdf: /uploads/2021/11/epistulae16.pdf
+  html: true
+- number: 15
+  category: "Politics & Culture"
+  title: "Punk Rock, Prufrock, and The Words We Live By—The Importance of Poetry"
+  author: "Thomas H. Landess"
+  pdf: /uploads/2021/11/epistulae15.pdf
+  html: true
+- number: 14
+  category: "Morality & Politics"
+  title: "The Challenge Confronting Conservatives: Sustaining a Republic of Hustlers"
+  author: "Walter A. McDougall"
+  pdf: /uploads/2021/11/epistulae14.pdf
+  html: false
+- number: 13
+  category: "Morality & Politics"
+  title: "Hume’s ‘False Philosophy’ and the Reflections of Common Life"
+  author: "Jonathan Allen Green"
+  pdf: /uploads/2021/11/epistulae13.pdf
+  html: false
+- number: 12
+  category: "Constitutionalism"
+  title: "Committees on Enumerated Powers: How Congress Can Revive the Constitution"
+  author: "Joseph Baldacchino"
+  pdf: /uploads/2021/11/epistulae12.pdf
+  html: false
+- number: 11
+  category: "Morality & Politics"
+  title: "Freedom Requires Restraint: Where Movement Conservatism Went Wrong—And How to Fix It"
+  author: "Joseph Baldacchino"
+  pdf: /uploads/2021/11/epistulae11.pdf
+  html: false
+- number: 10
+  category: "Constitutionalism"
+  title: "Regulation of Immigration Historically a State Function"
+  author: "Joseph Baldacchino"
+  pdf: /uploads/2021/11/epistulae10.pdf
+  html: false
+- number: 9
+  category: "Politics & Culture"
+  title: "A Challenge to Hollywood: Back to the Real World"
+  author: "Claes G. Ryn"
+  pdf: /uploads/2021/11/epistulae9.pdf
+  html: false
+- number: 8
+  category: "Politics & Culture"
+  title: "Nash’s New Book More Reprise than Reappraisal"
+  author: "Daniel McCarthy"
+  pdf: /uploads/2021/11/epistulae8.pdf
+  html: false
+- number: 7
+  category: "Morality & Politics"
+  title: "Debacle: The Conservative Movement in Chapter Eleven"
+  author: "Claes G. Ryn"
+  pdf: /uploads/2021/11/epistulae7.pdf
+  html: false
+- number: 6
+  category: "Politics & Culture"
+  title: "The Limits of Tolerance"
+  author: "Jude P. Dougherty"
+  pdf: /uploads/2021/11/epistulae6.pdf
+  html: false
+- number: 5
+  category: "Morality & Economics"
+  title: "Without Personal Responsibility, No Sound Economy"
+  author: "Mark T. Mitchell"
+  pdf: /uploads/2021/11/epistulae5.pdf
+  html: true
+- number: 4
+  category: "Morality & Politics"
+  title: "America’s Coup D’État in the Making: Deception and Self-Deception"
+  author: "Claes G. Ryn"
+  pdf: /uploads/2021/11/epistulae4.pdf
+  html: true
+- number: 3
+  category: "Morality & Politics"
+  title: "Conservatism Can Be Revived: Unmasking Neocons Just a Beginning"
+  author: "Joseph Baldacchino"
+  pdf: /uploads/2021/11/epistulae3.pdf
+  html: true
+- number: 2
+  category: "Politics & Culture"
+  title: "GOP Slouches Toward St. Paul"
+  author: "Rod Dreher"
+  pdf: /uploads/2021/11/epistulae2.pdf
+  html: true
+- number: 1
+  category: "Morality & Foreign Policy"
+  title: "Imperialism Destroys the Constitutional Republic"
+  author: "Michael P. Federici"
+  pdf: /uploads/2021/11/epistulae1.pdf
+  html: false

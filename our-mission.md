@@ -19,5 +19,5 @@ Made possible by generous donors, including the Charles Koch Foundation, the Cen
 
 <aside class="page-cta">
   <h2>A New Grand Design in International Relations</h2>
-  <a class="btn btn--light" href="{{ '/ideas_and_commentary/moral-path-peace/' | prepend: site.archive }}">Learn More</a>
+  <a class="btn btn--light" href="{{ '/ideas_and_commentary/moral-path-peace/' | relative_url }}">Learn More</a>
 </aside>

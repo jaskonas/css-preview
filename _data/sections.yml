@@ -1,0 +1,19 @@
+# Collection → parent section, for banners, breadcrumbs and "more from" sidebars.
+news:
+  title: CSS News
+  url: /css-news/
+commentary:
+  title: Ideas & Commentary
+  url: /ideas-n-commentary/
+epistulae:
+  title: Epistulae
+  url: /epistulae/
+events:
+  title: Events
+  url: /events/
+team:
+  title: Council of Advisors
+  url: /advisory-council/
+humanitas:
+  title: Humanitas
+  url: /humanitas-journal/

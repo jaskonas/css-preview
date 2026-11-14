@@ -28,3 +28,128 @@
 }
 .page-body .page-cta h2 { color: var(--white); margin: 0 0 1.4rem; font-size: 1.4rem; }
 .page-body .page-cta .btn { text-decoration: none; padding-inline: 2.5rem; }
+
+.page-body--wide { max-width: none; }
+
+// ── Listing grids (news, commentary, video & audio) ──
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--gap);
+  align-items: start;
+}
+@media (max-width: 960px) { .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .card-grid { grid-template-columns: 1fr; } }
+.news-media-blank { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: var(--red); }
+.news-media .news-media-blank img { position: static; width: 55%; height: auto; object-fit: contain; }
+
+.team-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); max-width: none; }
+@media (max-width: 960px) { .team-grid--4 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 700px) { .team-grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .team-grid--4 { grid-template-columns: 1fr; } }
+.group-title {
+  font-family: var(--t-head);
+  font-weight: 400;
+  font-size: 1.35rem;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  color: var(--accent);
+  margin: 0 0 1.6rem;
+}
+.group-title:not(:first-child) { margin-top: 3.5rem; }
+
+// ── Single post: reading column + sidebar ──
+.post-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 17rem;
+  gap: 3.5rem;
+  padding-block: 3.5rem 1rem;
+}
+@media (max-width: 900px) { .post-wrap { grid-template-columns: 1fr; gap: 2.5rem; } }
+.post { min-width: 0; max-width: var(--measure); }
+.post-meta { font-size: .9rem; color: var(--text-muted); margin-bottom: 1.4rem; }
+.post-media { margin: 0 0 2rem; }
+.post-media img { display: block; width: 100%; }
+.post-media--video, .embed { position: relative; aspect-ratio: 16 / 9; background: #000; margin: 0 0 2rem; }
+.post-media--video iframe, .embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.post-media--audio { aspect-ratio: auto; height: 20rem; }
+.post-media--audio iframe { width: 100%; height: 100%; border: 0; }
+.post-body { font-size: 1.05rem; }
+.post-body h2, .post-body h3, .post-body h4 { color: var(--accent); margin-top: 2rem; }
+.post-body a { text-decoration: underline; text-underline-offset: 2px; }
+.post-body img { display: block; margin: 1.5rem 0; }
+.post-body blockquote { margin: 1.5rem 0; padding: .2rem 0 .2rem 1.3rem; border-left: 3px solid var(--red); color: var(--text-muted); }
+.post-body table { border-collapse: collapse; width: 100%; margin: 1.5rem 0; font-size: .95rem; }
+.post-body td, .post-body th { border: 1px solid var(--rule); padding: .45rem .6rem; vertical-align: top; }
+
+.post-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+}
+.post-nav a { display: block; font-family: var(--t-head); color: var(--text-strong); line-height: 1.35; }
+.post-nav a:hover { color: var(--accent); }
+.post-nav-next { text-align: right; }
+.post-nav-label { display: block; font-family: var(--t-body); font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); margin-bottom: .3rem; }
+
+.post-aside { font-size: .95rem; }
+.aside-title {
+  font-family: var(--t-head);
+  font-weight: 400;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--text-strong);
+  margin: 0 0 1rem;
+}
+.aside-title::after { content: ""; display: block; width: 40px; height: 2px; margin-top: .6rem; background: var(--red); }
+.aside-list { list-style: none; margin: 0 0 1.6rem; padding: 0; }
+.aside-list li { padding: .7rem 0; border-bottom: 1px solid var(--rule); }
+.aside-list a { display: block; color: var(--text-strong); line-height: 1.35; }
+.aside-list a:hover { color: var(--accent); }
+.aside-list span { display: block; font-size: .8rem; color: var(--text-muted); margin-top: .2rem; }
+.btn--small { font-size: .8rem; padding: .6rem 1rem; }
+
+// ── Person ──
+.person { padding-block: 3.5rem 1rem; }
+.person-head { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: 2.2rem; align-items: start; margin-bottom: 2.2rem; }
+@media (max-width: 640px) { .person-head { grid-template-columns: 1fr; } .person-photo { max-width: 15rem; } }
+.person-photo { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; box-shadow: var(--shadow); }
+.person-name { font-size: 1.6rem; text-transform: uppercase; letter-spacing: .04em; color: var(--accent); margin-bottom: .4rem; }
+.person-contact { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; margin-top: 1rem; font-size: .95rem; }
+.person-contact a { display: inline-flex; align-items: center; gap: .4rem; }
+.person-groups { font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; margin-top: 1rem; }
+
+// ── Events ──
+.event-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: 1rem 2rem; margin: 0 0 2rem; padding: 1.3rem 1.5rem; background: var(--surface-alt); border-left: 3px solid var(--red); }
+.event-facts dt { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); margin-bottom: .2rem; }
+.event-facts dd { margin: 0; }
+
+// ── Simple document lists (Epistulae, NHI Bulletins, past events) ──
+.doc-list { list-style: none; margin: 0; padding: 0; }
+.doc-list > li { padding: 1.4rem 0; border-bottom: 1px solid var(--rule); }
+.doc-kicker { font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); margin: 0 0 .25rem; }
+.doc-title { font-family: var(--t-head); font-size: 1.2rem; font-weight: 400; margin: 0 0 .3rem; }
+.doc-title a { color: var(--text-strong); text-decoration: none; }
+.doc-title a:hover { color: var(--accent); }
+.doc-meta { color: var(--text-muted); margin: 0 0 .5rem; }
+.doc-links { display: flex; gap: .6rem; margin: 0; }
+.doc-links a { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; text-decoration: none; border: 1px solid currentColor; padding: .25rem .7rem; }
+.doc-links a:hover { background: var(--red); border-color: var(--red); color: var(--white); }
+
+.page-figure { margin: 0 0 2rem; }
+.page-figure img { display: block; max-width: 100%; }
+.doc-contents { margin: 0; padding-left: 1.2rem; color: var(--text-muted); font-size: .95rem; }
+.doc-contents li { margin: .15rem 0; }
+.page-body .doc-title a { text-decoration: none; }
+
+.notice { padding: 1rem 1.3rem; background: var(--surface-alt); border-left: 3px solid var(--red); }
+.event-item { display: grid; grid-template-columns: 3.6rem minmax(0, 1fr); gap: 1.2rem; align-items: start; }
+.date-badge--inline { position: static; }
+
+// cards inside page bodies keep their own (un-underlined) link styling
+.page-body .card a, .page-body .doc-links a, .page-body .btn { text-decoration: none; }
+.page-body .doc-title { font-size: 1.25rem; text-transform: none; color: var(--text-strong); margin: 0 0 .3rem; }

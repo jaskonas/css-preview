@@ -1,0 +1,5 @@
+{% comment %}Card grid (or carousel) for one group in _data/groups.yml.
+Usage: {% include team-group.html group="staff" %}  ·  add carousel="<track id>" for a scroll track.{% endcomment %}{% assign g = site.data.groups[include.group] %}
+<div class="{% if include.carousel %}carousel carousel--team{% elsif include.grid == "3" %}team-grid{% else %}team-grid team-grid--4{% endif %}"{% if include.carousel %} id="{{ include.carousel }}" tabindex="0" aria-label="{{ g.title }}"{% endif %}>
+  {% for slug in g.members %}{% assign m = site.team | where: "slug", slug | first %}{% if m %}{% include team-card.html member=m %}{% endif %}{% endfor %}
+</div>

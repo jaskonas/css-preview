@@ -1,14 +1,14 @@
-{% assign m = include.member %}{% assign href = '/team-members/' | append: m.slug | append: '/' | prepend: site.archive %}
+{% comment %}A team member card. Usage: {% include team-card.html member=doc %} (doc from site.team){% endcomment %}{% assign m = include.member %}
 <article class="team-card card">
-  <a class="team-photo" href="{{ href }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ '/images/team/' | append: m.photo | relative_url }}" alt="" width="300" height="300" loading="lazy">
+  <a class="team-photo" href="{{ m.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {% if m.photo %}<img src="{{ m.photo | relative_url }}" alt="" width="300" height="300" loading="lazy">{% endif %}
   </a>
   <div class="team-body">
     {% if m.twitter or m.email %}<div class="team-social">
-      {% if m.twitter %}<a href="https://twitter.com/{{ m.twitter }}" aria-label="{{ m.name }} on Twitter">{% include icon.html name="twitter" %}</a>{% endif %}
-      {% if m.email %}<a href="mailto:{{ m.email }}" aria-label="Email {{ m.name }}">{% include icon.html name="email" %}</a>{% endif %}
+      {% if m.twitter %}<a href="https://twitter.com/{{ m.twitter }}" aria-label="{{ m.title }} on Twitter">{% include icon.html name="twitter" %}</a>{% endif %}
+      {% if m.email %}<a href="mailto:{{ m.email }}" aria-label="Email {{ m.title }}">{% include icon.html name="email" %}</a>{% endif %}
     </div>{% endif %}
-    <h3 class="team-name"><a href="{{ href }}">{{ m.name }}</a></h3>
+    <h3 class="team-name"><a href="{{ m.url | relative_url }}">{{ m.title }}</a></h3>
     {% if m.position %}<p class="team-position">{{ m.position }}</p>{% endif %}
     {% if m.org %}<p class="team-org">{{ m.org }}</p>{% endif %}
   </div>

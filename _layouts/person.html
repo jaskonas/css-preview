@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<main id="main" role="main">
+  {% assign home_key = page.groups | first %}{% assign home_group = site.data.groups[home_key] %}
+  {% include page-banner.html parent_title=home_group.title parent_url=home_group.url %}
+  <article class="person container">
+    <div class="person-head">
+      {% if page.photo %}<img class="person-photo" src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.title }}">{% endif %}
+      <div class="person-id">
+        <h2 class="person-name">{{ page.title }}</h2>
+        {% if page.position %}<p class="team-position">{{ page.position }}</p>{% endif %}
+        {% if page.org %}<p class="team-org">{{ page.org }}</p>{% endif %}
+        {% if page.twitter or page.email %}<p class="person-contact">
+          {% if page.email %}<a href="mailto:{{ page.email }}">{% include icon.html name="email" %} {{ page.email }}</a>{% endif %}
+          {% if page.twitter %}<a href="https://twitter.com/{{ page.twitter }}">{% include icon.html name="twitter" %} @{{ page.twitter }}</a>{% endif %}
+        </p>{% endif %}
+        {% if page.groups %}<p class="person-groups">{% for g in page.groups %}{% assign grp = site.data.groups[g] %}<a href="{{ grp.url | relative_url }}">{{ grp.title }}</a>{% unless forloop.last %} <span aria-hidden="true">·</span> {% endunless %}{% endfor %}</p>{% endif %}
+      </div>
+    </div>
+    <div class="page-body person-bio">
+      {{ content }}
+    </div>
+  </article>
+</main>

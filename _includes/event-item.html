@@ -1,0 +1,9 @@
+{% assign e = include.event %}{% assign v = site.data.venues[e.venue] %}
+<li class="event-item">
+  <time class="date-badge date-badge--inline" datetime="{{ e.date | date: '%Y-%m-%d' }}"><span class="db-day">{{ e.date | date: '%-d' }}</span><span class="db-mon">{{ e.date | date: '%b' }}</span><span class="db-yr">{{ e.date | date: '%Y' }}</span></time>
+  <div>
+    <h3 class="doc-title"><a href="{{ e.url | relative_url }}">{{ e.title }}</a></h3>
+    <p class="doc-meta">{{ e.date | date: '%B %-d, %Y' }}{% if e.time %} @ {{ e.time }}{% endif %}{% if v %} · <a href="{{ v.url | relative_url }}">{{ v.name }}</a>{% endif %}</p>
+    {% if e.excerpt_text %}<p>{{ e.excerpt_text }}</p>{% endif %}
+  </div>
+</li>

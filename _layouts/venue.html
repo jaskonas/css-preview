@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign v = site.data.venues[page.venue] %}
+<main id="main" role="main">
+  {% include page-banner.html parent_title=page.parent_title parent_url=page.parent_url %}
+  <article class="page container">
+    <div class="page-body">
+      <p class="venue-address">{{ v.address }}{% if v.map %}<br><a href="{{ v.map }}">Get Directions</a>{% endif %}</p>
+      <h2>Events at this venue</h2>
+      <ul class="doc-list">{% assign evs = site.events | where: "venue", page.venue | sort: "date" | reverse %}{% for e in evs %}{% include event-item.html event=e %}{% endfor %}</ul>
+    </div>
+  </article>
+</main>

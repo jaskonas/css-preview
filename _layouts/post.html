@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{% assign section = site.data.sections[page.collection] %}
+{% assign recent = site[page.collection] | sort: "date" | reverse %}
+<main id="main" role="main">
+  {% include page-banner.html parent_title=section.title parent_url=section.url %}
+  <div class="container post-wrap">
+    <article class="post">
+      {% if page.collection == "epistulae" %}{% assign issue = site.data.epistulae | where: "number", page.number | first %}
+      <p class="doc-kicker">Epistulae No. {{ page.number }}{% if issue %} · {{ issue.category }}{% endif %}</p>{% endif %}
+      <p class="post-meta">
+        <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time>{% if page.author %} <span aria-hidden="true">·</span> By {{ page.author }}{% endif %}
+      </p>
+      {% if page.youtube %}
+      <div class="post-media post-media--video"><iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" title="{{ page.title | escape }}" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+      {% elsif page.soundcloud %}
+      <div class="post-media post-media--audio"><iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F{{ page.soundcloud }}&amp;show_artwork=true" title="{{ page.title | escape }}" allow="autoplay"></iframe></div>
+      {% elsif page.image %}
+      <figure class="post-media"><img src="{{ page.image | relative_url }}" alt=""></figure>
+      {% endif %}
+      <div class="post-body">
+        {{ content }}
+      </div>
+      {% if issue %}<p class="doc-links"><a href="{{ issue.pdf | relative_url }}">Download PDF</a></p>{% endif %}
+      <nav class="post-nav" aria-label="More from {{ section.title }}">
+        {% if page.previous %}<a class="post-nav-prev" href="{{ page.previous.url | relative_url }}"><span class="post-nav-label">‹ Older</span>{{ page.previous.title }}</a>{% else %}<span></span>{% endif %}
+        {% if page.next %}<a class="post-nav-next" href="{{ page.next.url | relative_url }}"><span class="post-nav-label">Newer ›</span>{{ page.next.title }}</a>{% endif %}
+      </nav>
+    </article>
+    <aside class="post-aside" aria-labelledby="aside-heading">
+      <h2 class="aside-title" id="aside-heading">Recent {{ section.title }}</h2>
+      <ul class="aside-list">
+        {% for p in recent limit: 6 %}{% unless p.url == page.url %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a><span>{{ p.date | date: '%B %-d, %Y' }}</span></li>
+        {% endunless %}{% endfor %}
+      </ul>
+      <p><a class="btn btn--outline btn--small" href="{{ section.url | relative_url }}">All {{ section.title }} <span aria-hidden="true">»</span></a></p>
+    </aside>
+  </div>
+</main>

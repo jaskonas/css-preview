@@ -7,8 +7,43 @@ title: "Center for the Study of Statesmanship"
 short_title: "CSS"
 url: https://css.cua.edu
 
-# Pages not cloned into this site resolve to their archived originals
+# Source snapshot this site was rebuilt from
 archive: https://web.archive.org/web/20250317025935/https://css.cua.edu
+
+# Content collections. Permalinks mirror the original WordPress URLs so old links keep working.
+collections:
+  news:
+    output: true
+    permalink: /css_news/:name/
+  commentary:
+    output: true
+    permalink: /ideas_and_commentary/:name/
+  epistulae:
+    output: true
+    permalink: /:name/
+  humanitas:
+    output: true
+    permalink: /humanitas_journal/:name/
+  events:
+    output: true
+    permalink: /event/:name/
+  team:
+    output: true
+    permalink: /team-members/:name/
+
+defaults:
+  - scope: { type: news }
+    values: { layout: post }
+  - scope: { type: commentary }
+    values: { layout: post }
+  - scope: { type: epistulae }
+    values: { layout: post }
+  - scope: { type: humanitas }
+    values: { layout: post }
+  - scope: { type: events }
+    values: { layout: event }
+  - scope: { type: team }
+    values: { layout: person }
 
 # Jekyll configuration
 
@@ -57,3 +92,4 @@ exclude:
   - README.md
   - node_modules
   - tmp
+  - tools

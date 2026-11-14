@@ -1,0 +1,21 @@
+{% comment %}A news/commentary card. Usage: {% include news-card.html item=doc %}{% endcomment %}{% assign item = include.item %}
+<article class="news-card card">
+  <div class="news-media">
+    {% if item.youtube %}
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ item.youtube }}" title="{{ item.title | escape }}" loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+    {% elsif item.soundcloud %}
+    <iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F{{ item.soundcloud }}&amp;show_artwork=true" title="{{ item.title | escape }}" loading="lazy" allow="autoplay"></iframe>
+    {% elsif item.image %}
+    <a href="{{ item.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ item.image | relative_url }}" alt="" loading="lazy"></a>
+    {% else %}
+    <a class="news-media-blank" href="{{ item.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ '/images/CUA-CSS-Logo-Color-White.png' | relative_url }}" alt="" loading="lazy"></a>
+    {% endif %}
+    <time class="date-badge" datetime="{{ item.date | date: '%Y-%m-%d' }}"><span class="db-day">{{ item.date | date: '%-d' }}</span><span class="db-mon">{{ item.date | date: '%b' }}</span><span class="db-yr">{{ item.date | date: '%Y' }}</span></time>
+  </div>
+  <div class="news-body">
+    <h3 class="news-title"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+    <p class="news-date">{{ item.date | date: '%B %-d, %Y' }}{% if item.author %} · {{ item.author }}{% endif %}</p>
+    {% if item.excerpt_text %}<p class="news-excerpt">{{ item.excerpt_text }}</p>{% endif %}
+    <a class="read-more" href="{{ item.url | relative_url }}">Read More <span aria-hidden="true">›</span></a>
+  </div>
+</article>

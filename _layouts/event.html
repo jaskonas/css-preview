@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% assign venue = site.data.venues[page.venue] %}
+<main id="main" role="main">
+  {% include page-banner.html parent_title="Events" parent_url="/events/" %}
+  <div class="container post-wrap">
+    <article class="post">
+      <dl class="event-facts">
+        <div><dt>Date</dt><dd><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%A, %B %-d, %Y' }}</time></dd></div>
+        {% if page.time %}<div><dt>Time</dt><dd>{{ page.time }}</dd></div>{% endif %}
+        {% if venue %}<div><dt>Venue</dt><dd><a href="{{ venue.url | relative_url }}">{{ venue.name }}</a>{% if venue.address %}<br>{{ venue.address }}{% endif %}</dd></div>{% endif %}
+        {% if page.website %}<div><dt>Website</dt><dd><a href="{{ page.website }}">{{ page.website | split: "/" | slice: 2 }}</a></dd></div>{% endif %}
+        {% if page.cost %}<div><dt>Cost</dt><dd>{{ page.cost }}</dd></div>{% endif %}
+      </dl>
+      {% if page.image %}<figure class="post-media"><img src="{{ page.image | relative_url }}" alt=""></figure>{% endif %}
+      <div class="post-body">
+        {{ content }}
+      </div>
+    </article>
+    <aside class="post-aside" aria-labelledby="aside-heading">
+      <h2 class="aside-title" id="aside-heading">Past Events</h2>
+      <ul class="aside-list">
+        {% assign evs = site.events | sort: "date" | reverse %}{% for e in evs %}{% unless e.url == page.url %}
+        <li><a href="{{ e.url | relative_url }}">{{ e.title }}</a><span>{{ e.date | date: '%B %-d, %Y' }}</span></li>
+        {% endunless %}{% endfor %}
+      </ul>
+    </aside>
+  </div>
+</main>

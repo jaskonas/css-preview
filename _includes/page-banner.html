@@ -1,0 +1,7 @@
+{% comment %}Dark title banner with breadcrumbs. Optional include.parent_title / include.parent_url.{% endcomment %}
+<header class="page-banner">
+  <div class="container">
+    <h1>{{ include.title | default: page.title }}</h1>
+    <p class="breadcrumbs"><a href="{{ '/' | relative_url }}">Home</a>{% if include.parent_url %} <span aria-hidden="true">›</span> <a href="{{ include.parent_url | relative_url }}">{{ include.parent_title }}</a>{% endif %} <span aria-hidden="true">›</span> {{ include.title | default: page.title }}</p>
+  </div>
+</header>

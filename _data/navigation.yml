@@ -1,40 +1,31 @@
-# Top navigation. `archive: true` links resolve against site.archive
-# (pages that exist only on the archived original site).
+# Top navigation (all native pages; About CUA is the one external link).
 - title: About
-  url: "#"
+  url: /our-mission/
   children:
     - title: Our Mission
       url: /our-mission/
     - title: About CUA
       url: https://www.catholic.edu/about-us/index.html
     - title: News
-      url: /#news
+      url: /css-news/
     - title: Council of Advisors
-      url: /#advisors
+      url: /advisory-council/
     - title: CSS Staff
-      url: /#staff
+      url: /css-staff/
     - title: Visiting Fellows
       url: /visiting-fellows/
-      archive: true
 - title: Resources & Publications
   url: /humanitas-journal/
-  archive: true
   children:
     - title: Epistulae
       url: /epistulae/
-      archive: true
     - title: Ideas & Commentary
       url: /ideas-n-commentary/
-      archive: true
     - title: NHI Bulletins
       url: /nhi-bulletins/
-      archive: true
     - title: Video & Audio
       url: /video-audio/
-      archive: true
 - title: Events
   url: /events/
-  archive: true
 - title: Donate
   url: /support-css/
-  archive: true
