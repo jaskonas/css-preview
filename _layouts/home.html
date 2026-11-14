@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<main id="main" role="main">
+  <section class="hero" style="--hero-image: url('{{ '/images/' | append: page.hero.image | relative_url }}')">
+    <div class="container hero-inner">
+      <p class="hero-welcome">{{ page.hero.welcome }}</p>
+      <h1 class="hero-title">{% for line in page.hero.title %}<span>{{ line }}</span>{% endfor %}</h1>
+      <div class="hero-lead">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section news" id="news" aria-labelledby="news-heading">
+    <div class="container">
+      {% include section-title.html id="news" title="CSS News" carousel="news-track" %}
+      <div class="carousel" id="news-track" tabindex="0" aria-label="CSS News">
+        {% for item in site.data.news %}
+        {% assign href = item.path | prepend: site.archive %}
+        <article class="news-card card">
+          <div class="news-media">
+            {% if item.youtube %}
+            <iframe src="https://www.youtube-nocookie.com/embed/{{ item.youtube }}" title="{{ item.title | escape }}" loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+            {% elsif item.soundcloud %}
+            <iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F{{ item.soundcloud }}&amp;show_artwork=true" title="{{ item.title | escape }}" loading="lazy" allow="autoplay"></iframe>
+            {% elsif item.image %}
+            <a href="{{ href }}" tabindex="-1" aria-hidden="true"><img src="{{ '/images/' | append: item.image | relative_url }}" alt="" loading="lazy"></a>
+            {% endif %}
+            <time class="date-badge" datetime="{{ item.date | date: '%Y-%m-%d' }}"><span class="db-day">{{ item.date | date: '%-d' }}</span><span class="db-mon">{{ item.date | date: '%b' }}</span><span class="db-yr">{{ item.date | date: '%Y' }}</span></time>
+          </div>
+          <div class="news-body">
+            <h3 class="news-title"><a href="{{ href }}">{{ item.title }}</a></h3>
+            <p class="news-date">{{ item.date | date: '%B %-d, %Y' }}</p>
+            <p class="news-excerpt">{{ item.excerpt }}</p>
+            <a class="read-more" href="{{ href }}">Read More <span aria-hidden="true">›</span></a>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+      <p class="section-cta"><a class="btn btn--outline" href="{{ '/css-news/' | prepend: site.archive }}">Read More <span aria-hidden="true">»</span></a></p>
+    </div>
+  </section>
+
+  <section class="band" aria-label="About CSS video">
+    <div class="container band-inner">
+      <a class="btn btn--light" href="{{ page.video }}">Watch a Video About CSS</a>
+    </div>
+  </section>
+
+  <section class="home-section advisors" id="advisors" aria-labelledby="advisors-heading">
+    <div class="container">
+      {% include section-title.html id="advisors" title="Council of Advisors" carousel="advisors-track" %}
+      <div class="carousel carousel--team" id="advisors-track" tabindex="0" aria-label="Council of Advisors">
+        {% for m in site.data.advisors %}{% include team-card.html member=m %}{% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section staff" id="staff" aria-labelledby="staff-heading">
+    <div class="container">
+      {% include section-title.html id="staff" title="Our Staff" %}
+      <div class="team-grid">
+        {% for m in site.data.staff %}{% include team-card.html member=m %}{% endfor %}
+      </div>
+    </div>
+  </section>
+</main>

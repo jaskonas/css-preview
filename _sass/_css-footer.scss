@@ -1,0 +1,45 @@
+// Dark footer (Howes "fbar" texture under a near-black wash) + slim bottom bar.
+#site-footer {
+  background: var(--footer-bg) url('/images/fbar-bg.jpg') center / cover;
+  color: var(--footer-text);
+  font-size: .95rem;
+  position: relative;
+}
+#site-footer::before { content: ""; position: absolute; inset: 0; background: rgba(12,12,12,.9); }
+#site-footer > * { position: relative; }
+
+.footer-inner {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3rem;
+  padding-block: 4rem 3rem;
+}
+.footer-title {
+  font-family: var(--t-head);
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--white);
+  margin: 0 0 1.2rem;
+}
+.footer-title::after { content: ""; display: block; width: 40px; height: 2px; margin-top: .7rem; background: var(--red); }
+#site-footer a { color: var(--white); text-decoration: underline; text-underline-offset: 2px; }
+#site-footer a:hover { color: var(--red-tint); }
+.footer-logo { width: 230px; margin-top: .6rem; }
+#site-footer address { line-height: 1.8; }
+
+.footer-bar { border-top: 1px solid rgba(255,255,255,.12); }
+.footer-bar-inner {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-block: 1.1rem;
+  font-size: .82rem;
+  color: rgba(255,255,255,.6);
+}
+.footer-bar p { margin: 0; }
+#site-footer .to-top { text-decoration: none; }
+
+@media (max-width: 700px) { .footer-inner { grid-template-columns: 1fr; gap: 2rem; } }

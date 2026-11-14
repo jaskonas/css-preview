@@ -1,0 +1,23 @@
+<footer id="site-footer">
+  <div class="container footer-inner">
+    <section class="footer-col">
+      <h3 class="footer-title">About CSS</h3>
+      <p>{{ site.description }}</p>
+      <p>CSS is affiliated with The Institute for Human Ecology at The Catholic University of America. Visit IHE <a href="http://ihe.cua.edu">here</a>.</p>
+      <img class="footer-logo" src="{{ '/images/CUA-CSS-Logo-Color-White.png' | relative_url }}" alt="Center for the Study of Statesmanship" width="500" height="106" loading="lazy">
+    </section>
+    <section class="footer-col">
+      <h3 class="footer-title">Contact Us</h3>
+      <address>
+        {% for line in site.contact %}{{ line }}<br>{% endfor %}
+        Email: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
+      </address>
+    </section>
+  </div>
+  <div class="footer-bar">
+    <div class="container footer-bar-inner">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Original site design by <a href="http://fuzati.com/">Fuzati</a>.</p>
+      <a class="to-top" href="#js-body">Back to top ↑</a>
+    </div>
+  </div>
+</footer>

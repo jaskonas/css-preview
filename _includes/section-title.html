@@ -1,0 +1,7 @@
+<header class="section-head">
+  <h2 class="section-title" id="{{ include.id }}-heading">{{ include.title }}</h2>
+  {% if include.carousel %}<div class="carousel-controls" data-carousel-for="{{ include.carousel }}">
+    <button type="button" class="carousel-btn" data-dir="-1" aria-label="Previous">{% include icon.html name="chevron-left" %}</button>
+    <button type="button" class="carousel-btn" data-dir="1" aria-label="Next">{% include icon.html name="chevron-right" %}</button>
+  </div>{% endif %}
+</header>

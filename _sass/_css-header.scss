@@ -1,0 +1,150 @@
+// White header with the full-colour CSS shield logo and red uppercase nav.
+// Sticky; tightens and drops the logo size after the first scroll (.is-scrolled).
+#masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--header-rule);
+  transition: box-shadow .2s ease, background .2s ease;
+}
+#masthead.is-scrolled { box-shadow: 0 2px 10px rgba(0,0,0,.12); }
+
+.masthead-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding-top: .9rem;
+  padding-bottom: .9rem;
+  transition: padding .25s ease;
+}
+#masthead.is-scrolled .masthead-inner { padding-top: .45rem; padding-bottom: .45rem; }
+
+.brand { display: block; flex: 0 0 auto; line-height: 0; }
+.brand-logo { width: 245px; height: auto; transition: width .25s ease; }
+#masthead.is-scrolled .brand-logo { width: 190px; }
+.brand-logo--dark { display: none; }
+:root[data-theme="dark"] .brand-logo--light { display: none; }
+:root[data-theme="dark"] .brand-logo--dark { display: block; }
+
+.masthead-nav { display: flex; align-items: center; gap: 1.4rem; }
+
+// ── primary nav + dropdowns ──
+.top-nav ul { list-style: none; margin: 0; padding: 0; }
+.top-nav > ul { display: flex; gap: 1.6rem; }
+.top-nav li { position: relative; }
+.top-nav > ul > li > a {
+  display: block;
+  font-family: var(--t-head);
+  font-size: .9rem;
+  font-weight: 400;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  padding: .6rem 0;
+}
+.top-nav > ul > li > a:hover,
+.top-nav a[aria-current="page"] { color: var(--text-strong); }
+
+.sub-nav {
+  position: absolute;
+  top: 100%;
+  left: -1rem;
+  min-width: 14rem;
+  background: var(--surface);
+  border-top: 3px solid var(--red);
+  box-shadow: 0 6px 18px rgba(0,0,0,.14);
+  padding: .4rem 0 !important;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(6px);
+  transition: opacity .15s ease, transform .15s ease, visibility .15s;
+}
+.has-children:hover > .sub-nav,
+.has-children:focus-within > .sub-nav { opacity: 1; visibility: visible; transform: none; }
+.sub-nav a {
+  display: block;
+  padding: .5rem 1rem;
+  font-family: var(--t-body);
+  font-size: .9rem;
+  color: var(--text);
+}
+.sub-nav a:hover { background: var(--red); color: var(--white); }
+
+.masthead-tools { display: flex; align-items: center; gap: .7rem; }
+.social-link { color: var(--accent); line-height: 0; }
+.social-link:hover { color: var(--text-strong); }
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  padding: .25rem .35rem;
+  margin-left: .2rem;
+  line-height: 0;
+  cursor: pointer;
+}
+.theme-toggle:hover { color: var(--text-strong); }
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+
+// ── mobile menu ──
+.menu-toggle {
+  display: none;
+  width: 2.6rem;
+  height: 2.4rem;
+  background: var(--red);
+  border: 0;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+}
+.menu-toggle-bars,
+.menu-toggle-bars::before,
+.menu-toggle-bars::after {
+  position: absolute;
+  left: 50%;
+  width: 1.2rem;
+  height: 2px;
+  margin-left: -.6rem;
+  background: var(--white);
+  content: "";
+}
+.menu-toggle-bars { top: 50%; margin-top: -1px; }
+.menu-toggle-bars::before { top: -6px; left: 0; margin-left: 0; }
+.menu-toggle-bars::after { top: 6px; left: 0; margin-left: 0; }
+
+@media (max-width: 960px) {
+  .masthead-inner { flex-wrap: wrap; }
+  .brand-logo { width: 200px; }
+  .menu-toggle { display: block; }
+  .masthead-nav {
+    flex-basis: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: .8rem;
+    padding-bottom: .5rem;
+  }
+  html.js .masthead-nav { display: none; }
+  html.js #masthead.menu-open .masthead-nav { display: flex; }
+  .top-nav > ul { flex-direction: column; gap: 0; }
+  .top-nav > ul > li { border-top: 1px solid var(--rule); }
+  .sub-nav {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    box-shadow: none;
+    border-top: 0;
+    background: transparent;
+    padding: 0 0 .5rem 1rem !important;
+  }
+  .sub-nav a { padding: .35rem 0; }
+  .sub-nav a:hover { background: transparent; color: var(--accent); }
+}

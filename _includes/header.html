@@ -1,0 +1,39 @@
+<header id="masthead">
+  <div class="container masthead-inner">
+    <a href="{{ '/' | relative_url }}" class="brand" aria-label="{{ site.title }} — home">
+      <img class="brand-logo brand-logo--light" src="{{ '/images/CUA-CSS-Logo-Full-Color-500.png' | relative_url }}" alt="CSS — Center for the Study of Statesmanship, The Catholic University of America" width="500" height="106">
+      <img class="brand-logo brand-logo--dark" src="{{ '/images/CUA-CSS-Logo-Color-White.png' | relative_url }}" alt="" aria-hidden="true" width="500" height="106">
+    </a>
+    <button type="button" class="menu-toggle" id="menu-toggle" aria-controls="primary-nav" aria-expanded="false">
+      <span class="menu-toggle-bars" aria-hidden="true"></span>
+      <span class="sr-only">Toggle menu</span>
+    </button>
+    <div class="masthead-nav" id="primary-nav">
+      <nav class="top-nav" role="navigation" aria-label="Primary">
+        <ul>
+        {% for link in site.data.navigation %}
+          {% if link.archive %}{% assign href = link.url | prepend: site.archive %}{% else %}{% assign href = link.url | relative_url %}{% endif %}
+          <li{% if link.children %} class="has-children"{% endif %}>
+            <a href="{{ href }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+            {% if link.children %}
+            <ul class="sub-nav">
+              {% for child in link.children %}
+              {% if child.archive %}{% assign chref = child.url | prepend: site.archive %}{% elsif child.url contains "://" %}{% assign chref = child.url %}{% else %}{% assign chref = child.url | relative_url %}{% endif %}
+              <li><a href="{{ chref }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+      </nav>
+      <div class="masthead-tools">
+        {% for s in site.data.social %}<a class="social-link" href="{{ s.url }}" aria-label="{{ s.title }}">{% include icon.html name=s.icon %}</a>{% endfor %}
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark mode" aria-pressed="false">
+          <svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2 12h2.4M19.6 12H22M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>

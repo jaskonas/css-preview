@@ -1,0 +1,10 @@
+# Header social icons (icon = key into _includes/icon.html)
+- title: Facebook
+  icon: facebook
+  url: https://www.facebook.com/CSSatCUA/
+- title: Twitter
+  icon: twitter
+  url: https://twitter.com/CSSatCUA
+- title: YouTube
+  icon: youtube
+  url: https://www.youtube.com/channel/UCgh-_Anrch7RyWRlj9cgqiQ

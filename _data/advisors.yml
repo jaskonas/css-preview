@@ -1,0 +1,73 @@
+# Council of Advisors, in the original carousel order.
+# `slug` resolves to site.archive/team-members/<slug>/; `photo` lives in images/team/.
+- name: Monica Duffy Toft
+  slug: dr-monica-duffy-toft
+  photo: Monica-Toft.jpg
+  position: Senior Visiting Fellow
+  org: Professor of International Politics, Fletcher School of Law and Diplomacy | Tufts University
+  groups: [Advisory Board, Previous Visiting Fellows, Visiting Fellows]
+- name: Raymond Arroyo
+  slug: mr-raymond-arroyo
+  photo: Mr-Raymond-Arroyo.jpg
+  position: News Director, Managing Editor and Lead Anchor
+  org: EWTN News
+  groups: [Advisory Board]
+- name: Andrew J. Bacevich
+  slug: dr-andrew-bacevich
+  photo: Dr-Andrew-Bacevich.jpg
+  position: Senior Visiting Fellow
+  org: Professor Emeritus of International Relations and History, Boston University
+  groups: [Advisory Board, Previous Visiting Fellows, Visiting Fellows]
+- name: Archbishop Timothy Broglio, JCD
+  slug: archbishop-timothy-broglio-jcd
+  photo: Abp-Timothy-Broglio.jpg
+  position: Archbishop for the Military Services, USA
+  org: Archdiocese for the Military Services, USA
+  groups: [Advisory Board]
+- name: The Honorable Chas Freeman
+  slug: the-honorable-chas-freeman
+  photo: Chas-Freeman.jpg
+  position: Senior Fellow in International and Public Affairs
+  org: The Watson Center, Brown University
+  groups: [Advisory Board]
+- name: Bruce P. Frohnen
+  slug: bruce-p-frohnen
+  photo: Bruce-P-Frohnen.jpg
+  position: Professor of Law, Author
+  org: Ohio Northern University
+  groups: [Advisory Board]
+- name: Former Representative Tulsi Gabbard (D-HI)
+  slug: representative-tulsi-gabbard-d-hi
+  photo: Rep-Tulsi-Gabbard.jpg
+  org: Representing the 2nd District of Hawaii
+  groups: [Advisory Board]
+- name: John B. Henry
+  slug: mr-john-b-henry
+  photo: John-B-Henry.jpg
+  position: Chairman and CEO, Committee for the Republic
+  org: Committee for the Republic
+  groups: [Advisory Board]
+- name: Patrick Kelly
+  slug: mr-patrick-kelly-jd
+  photo: Mr-Patrick-Kelly-JD.jpg
+  position: Deputy Supreme Knight, Knights of Columbus
+  org: Former House Intelligence Committee Counsel
+  groups: [Advisory Board]
+- name: The Honorable Dennis Kucinich
+  slug: person-name-degree-4
+  photo: Mr-Dennis-Kucinich.jpg
+  position: Former Member of the U.S. House of Representatives from Ohio
+  org: Internationally renowned champion of diplomacy and peace.
+  groups: [Advisory Board]
+- name: Walter McDougall
+  slug: dr-walter-mcdougall
+  photo: Walter-McDougall.jpg
+  position: Professor of History, Alloy-Ansin Professor of International Relations
+  org: University of Pennsylvania
+  groups: [Advisory Board]
+- name: William Wichterman
+  slug: mr-william-wichterman
+  photo: William-Wichterman.jpg
+  position: Senior Legislative Advisor
+  org: Covington & Burling LLP
+  groups: [Advisory Board]

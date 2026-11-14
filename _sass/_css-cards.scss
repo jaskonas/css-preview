@@ -1,0 +1,142 @@
+// Cards: white tile, hairline shadow, darker bottom edge (Howes "tm-box").
+.card {
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border-bottom: 2px solid var(--rule);
+  display: flex;
+  flex-direction: column;
+  align-self: start;
+}
+
+// ── Carousel: native scroll-snap track, prev/next driven by css-carousel.js ──
+.carousel {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 2 * var(--gap)) / 3);
+  gap: var(--gap);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  padding: 4px 2px 10px;
+}
+.carousel::-webkit-scrollbar { display: none; }
+.carousel > * { scroll-snap-align: start; }
+.carousel--team { grid-auto-columns: calc((100% - 3 * var(--gap)) / 4); }
+
+@media (max-width: 960px) {
+  .carousel, .carousel--team { grid-auto-columns: calc((100% - var(--gap)) / 2); }
+}
+@media (max-width: 560px) {
+  .carousel, .carousel--team { grid-auto-columns: 86%; }
+}
+
+.carousel-controls { display: flex; justify-content: center; gap: .3rem; margin-top: 1.7rem; }
+.carousel-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  background: var(--surface);
+  color: var(--text-strong);
+  cursor: pointer;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+.carousel-btn:hover { background: var(--red); border-color: var(--red); color: var(--white); }
+.carousel-btn[disabled] { opacity: .4; cursor: default; background: var(--surface); color: var(--text-strong); border-color: var(--rule); }
+html:not(.js) .carousel-controls { display: none; }
+
+// ── News card ──
+.news-media {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  overflow: hidden;
+}
+.news-media iframe,
+.news-media img { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; object-fit: cover; }
+.date-badge {
+  position: absolute;
+  top: 0;
+  left: 1.2rem;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 3.4rem;
+  padding: .45rem .3rem .5rem;
+  background: var(--red);
+  color: var(--white);
+  font-family: var(--t-head);
+  line-height: 1.1;
+  pointer-events: none;
+}
+.db-day { font-size: 1.35rem; font-weight: 500; }
+.db-mon, .db-yr { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; }
+
+.news-body { padding: 1.4rem 1.55rem 1.7rem; }
+.news-title {
+  font-family: var(--t-head);
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.12;
+  letter-spacing: .02em;
+  margin: 0 0 .5rem;
+}
+.news-title a { color: var(--text-strong); }
+.news-title a:hover { color: var(--accent); }
+.news-date { font-size: .8rem; color: var(--grey-light); margin: 0 0 .9rem; }
+.news-excerpt { color: var(--text-muted); font-size: .98rem; line-height: 1.55; margin-bottom: 1.4rem; }
+.read-more { font-size: 1.05rem; color: var(--accent); }
+
+// ── Team card (advisors + staff) ──
+.team-photo { display: block; aspect-ratio: 1 / 1; overflow: hidden; background: var(--rule); }
+.team-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
+.team-card:hover .team-photo img { transform: scale(1.04); }
+.team-body { position: relative; padding: 1.2rem 1.25rem 1.3rem; }
+.team-name {
+  font-family: var(--t-head);
+  font-weight: 400;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  margin: 0 0 .1rem;
+}
+.team-name a { color: var(--accent); }
+.team-name a:hover { color: var(--text-strong); }
+.team-position { font-size: .9rem; letter-spacing: .06em; line-height: 1.4; color: var(--text); margin: 0 0 .55rem; }
+.team-org { font-size: 1.05rem; line-height: 1.35; color: var(--text-strong); margin: 0; }
+
+// staff contact icons ride the photo's bottom edge
+.team-social {
+  position: absolute;
+  top: -1.1rem;
+  right: 1rem;
+  display: flex;
+  gap: .3rem;
+}
+.team-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  background: var(--red);
+  color: var(--white);
+}
+.team-social a:hover { background: var(--red-deep); color: var(--white); }
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--gap);
+  max-width: 58rem;
+  margin: 0 auto;
+}
+@media (max-width: 800px) { .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 480px) { .team-grid { grid-template-columns: 1fr; } }

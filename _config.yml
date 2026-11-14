@@ -1,0 +1,59 @@
+# Site wide configuration
+description: "The Center for the Study of Statesmanship promotes research, teaching, and public discussion about how statesmanship can defuse conflict and foster respectful foreign and domestic relations."
+locale: en
+path: atom.xml
+teaser: CSS-Hero-Statesman-Philosophers.jpg
+title: "Center for the Study of Statesmanship"
+short_title: "CSS"
+url: https://css.cua.edu
+
+# Pages not cloned into this site resolve to their archived originals
+archive: https://web.archive.org/web/20250317025935/https://css.cua.edu
+
+# Jekyll configuration
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-extlinks
+
+highlighter: rouge
+permalink: "/:categories/:title/"
+sass:
+  sass_dir: _sass
+  style: compressed
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['css.cua.edu', 'web.archive.org']
+
+#Site owner
+name: "Center for the Study of Statesmanship"
+owner:
+  name: "Center for the Study of Statesmanship"
+  twitter: CSSatCUA
+
+# Contact block (footer)
+contact:
+  - Center for the Study of Statesmanship
+  - The Catholic University of America
+  - 620 Michigan Avenue, N.E.
+  - 313 Caldwell Hall
+  - Washington, DC 20064
+contact_email: smithws@cua.edu
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CLAUDE.md
+  - README.md
+  - node_modules
+  - tmp

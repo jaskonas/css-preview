@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script>document.documentElement.className += " js";</script>
+    <script>(function(){try{var p=(location.search.match(/[?&]theme=(dark|light)/)||[])[1];var t=p||localStorage.getItem('theme');if(!t)t=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+    <title>{% if page.title and page.title != "" %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+    {% include open-graph.html %}
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="icon" type="image/jpeg" href="{{ '/images/CSSFavicon.jpg' | relative_url }}">
+
+    <link href="{{ '/atom.xml' | relative_url }}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+    <link href="{{ '/sitemap.xml' | relative_url }}" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+  </head>
+
+  <body id="js-body">
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% include header.html %}
+
+    <div id="page-wrapper">
+      {{ content | extlinks }}
+      {% include footer.html %}
+    </div>
+
+    <script src="{{ '/js/css-theme.js' | relative_url }}" defer></script>
+    <script src="{{ '/js/css-scroll.js' | relative_url }}" defer></script>
+    <script src="{{ '/js/css-nav.js' | relative_url }}" defer></script>
+    <script src="{{ '/js/css-carousel.js' | relative_url }}" defer></script>
+
+  </body>
+
+</html>

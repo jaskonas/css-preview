@@ -1,0 +1,56 @@
+// CSS (Center for the Study of Statesmanship) — design tokens (light + dark)
+// Palette taken from the original Howes theme: CUA red #990000 over near-black #0c0c0c.
+:root {
+  // ── raw palette ──
+  --white:#ffffff; --fog:#ebebeb; --mist:#e1e1e1;
+  --red:#990000; --red-dark:#7f0000; --red-deep:#510500; --red-tint:#e0605a;
+  --ink:#0c0c0c; --charcoal:#272727; --grey:#555555; --grey-light:#8a8a8a;
+  --night:#131313; --night-raised:#1d1d1d; --night-rule:#2e2e2e;
+
+  // ── type roles ──
+  --t-head:"Poppins", "Helvetica Neue", Arial, sans-serif;   // section titles, names, nav
+  --t-body:"Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  // ── metrics ──
+  --frame:72rem;    // outer page frame (Bootstrap 1170px container)
+  --measure:44rem;  // reading column
+  --pad:1.25rem;
+  --gap:1.9rem;     // card gutter
+
+  // ── semantic (LIGHT mode) ──
+  --bg:var(--white);
+  --surface:var(--white);           // cards
+  --surface-alt:var(--fog);         // staff band
+  --text:var(--ink);
+  --text-strong:var(--charcoal);
+  --text-muted:var(--grey);
+  --rule:var(--mist);
+  --accent:var(--red);              // section titles, names, nav, links
+  --accent-hover:var(--red-dark);
+  --band:var(--red);                // full-bleed red band
+  --header-bg:var(--white);
+  --header-rule:var(--mist);
+  --shadow:0 1px 3px rgba(0,0,0,.08), 0 1px 1px rgba(0,0,0,.04);
+  --footer-bg:var(--ink);
+  --footer-text:rgba(255,255,255,.8);
+}
+
+// ── DARK mode ──
+// Red text on near-black fails contrast, so the accent lifts to a tint;
+// the red band and buttons keep the true CUA red as a ground.
+:root[data-theme="dark"] {
+  --bg:var(--night);
+  --surface:var(--night-raised);
+  --surface-alt:#181818;
+  --text:#e8e8e8;
+  --text-strong:#f4f4f4;
+  --text-muted:#a5a5a5;
+  --rule:var(--night-rule);
+  --accent:var(--red-tint);
+  --accent-hover:#f08a85;
+  --band:var(--red-dark);
+  --header-bg:var(--night);
+  --header-rule:var(--night-rule);
+  --shadow:0 1px 3px rgba(0,0,0,.5);
+  --footer-bg:#0a0a0a;
+}

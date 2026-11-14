@@ -1,0 +1,38 @@
+# Our Staff. Same shape as advisors.yml, plus optional twitter/email.
+- name: Jonathan Askonas
+  slug: jonathan-askonas
+  photo: Askonas.jpg
+  position: Director of Academic Programming
+  org: The Catholic University of America
+  twitter: jonaskonas
+  email: askonas@cua.edu
+- name: Justin Litke
+  slug: justin-litke
+  photo: Litke.jpg
+  position: Director of Research and Fellowships
+  org: The Catholic University of America
+  twitter: justinlitke
+  email: litke@cua.edu
+- name: Gil Barndollar
+  slug: gil-barndollar
+  photo: Gil-Barndollar-1.jpg
+  position: Senior Research Fellow
+  org: Center for the Study of Statesmanship
+  email: barndollar@cua.edu
+- name: Claes G. Ryn
+  slug: claes-g-ryn
+  photo: Claes-G-Ryn.jpg
+  position: Distinguished Senior Scholar and Founding Director Emeritus
+  org: The Catholic University of America
+  email: ryn@cua.edu
+- name: Andrew S. Gilmour
+  slug: andrew-s-gilmour
+  photo: Andrew-Gilmour.png
+  position: Senior Scholar-in-Residence
+  org: The Catholic University of America
+- name: Joseph Baldacchino
+  slug: joseph-baldacchino
+  photo: Joseph-Baldacchino-500x500.jpg
+  position: Senior Scholar
+  org: Center for the Study of Statesmanship
+  email: baldacchino@cua.edu
