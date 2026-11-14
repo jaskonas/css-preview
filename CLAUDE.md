@@ -18,7 +18,7 @@ Restart `jekyll serve` after editing `_config.yml` (the watcher doesn't reload i
 
 ## Architecture
 
-- **Collections** (`_config.yml`), one `.html` file per item with front matter + cleaned HTML body. Permalinks mirror the original WordPress URLs:
+- **Collections** (`_config.yml`), one Markdown (`.md`) file per item: front matter + body (kramdown; embeds and `<sup>` stay inline HTML). Root-relative links are written as `{{ site.baseurl }}/…` so the site also works under a subpath. Permalinks mirror the original WordPress URLs:
   - `_news/` → `/css_news/:name/` (layout `post`; `youtube` / `soundcloud` / `image` front matter drive the media slot)
   - `_commentary/` → `/ideas_and_commentary/:name/` (layout `post`)
   - `_epistulae/` → `/epistulae-no-N/` (layout `post`; issue metadata + PDF in `_data/epistulae.yml`)
@@ -30,3 +30,9 @@ Restart `jekyll serve` after editing `_config.yml` (the watcher doesn't reload i
 - **Uploads**: images and PDFs referenced by content live in `uploads/YYYY/MM/` (mirrors the old `wp-content/uploads/`). Site chrome images (logos, hero, footer texture) are in `images/`.
 - **Sass** in `_sass/`, compiled via `css/main.scss`; `_css-tokens.scss` holds every colour/font as a CSS variable with a `[data-theme="dark"]` override.
 - **JS** (`js/`, no build step): theme toggle, sticky-header shrink, mobile menu, carousel controls.
+
+## Gotchas
+
+- The repo lives under iCloud-synced `~/Documents`. Deleting and recreating many files at once (e.g. regenerating collections in place) makes iCloud create `name 2.md` conflict copies, which Jekyll then publishes as extra pages. Regenerate in a temp directory and `rsync -c --delete` the results in; check `git status` for `* 2.*` files.
+- `_config.yml`'s `exclude:` replaces Jekyll's defaults — keep `vendor`, `.bundle` and `.github` in it or CI builds pick up installed gems.
+- Preview deploy: `.github/workflows/preview.yml` builds with `_config.preview.yml` (baseurl `/css-preview`, noindex) and publishes to www.jaskonas.com/css-preview/ on every push to `master`.

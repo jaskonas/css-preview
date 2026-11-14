@@ -113,9 +113,7 @@ def write_doc(coll, slug, fm, body):
         elif k == 'date': lines.append(f"{k}: {v}")
         else: lines.append(f"{k}: {yq(v)}")
     lines.append('---')
-    # escape literal Liquid delimiters, then make root-relative links baseurl-aware
-    body = re.sub(r'\{(?=[{%])', "{{ '{' }}", body)
-    body = re.sub(r'((?:href|src)=")/(?!/)', r'\1{{ site.baseurl }}/', body)
+    # bodies stay HTML until the final to_markdown() pass
     open(os.path.join(d, slug + '.html'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n\n' + body + '\n')
 
 def text(el): return el.get_text(' ', strip=True) if el else ''
@@ -398,6 +396,68 @@ for f in glob.glob(os.path.join(SITE, '_*', '*.html')):
     body2 = re.sub(r'<a href="(?:\{\{ site\.baseurl \}\})?([^"]*)"[^>]*>(.*?)</a>', fix, body, flags=re.S)
     if body2 != body: open(f, 'w', encoding='utf-8').write(head + sep + body2)
 for k, v in sorted(unlinked.items()): report.append(f'unlinked {v}x {k}')
+
+# ── final pass: HTML bodies → Markdown (pandoc), then Liquid-safe + baseurl-aware links ──
+import subprocess
+EMBED = re.compile(r'<div class="embed">.*?</div>', re.S)
+
+def md_ready(html_body):
+    """Normalize WordPress quirks that Markdown can't express before handing HTML to pandoc."""
+    html_body = re.sub(r'<p>\s*(<div class="embed">.*?</div>)\s*</p>', r'\1', html_body, flags=re.S)
+    t = BeautifulSoup(html_body, 'html.parser')
+    for ul in t.find_all(['ul', 'ol']):                 # list with bare text and no items → paragraph
+        if not ul.find('li', recursive=False) and ul.get_text(strip=True):
+            ul.name = 'p'
+    for u in t.find_all('u'): u.unwrap()                  # underline: presentational, breaks md at line start
+    for el in t.find_all(['em', 'i', 'strong', 'b']):     # same-style nesting renders identically → unwrap inner
+        kin = ('em', 'i') if el.name in ('em', 'i') else ('strong', 'b')
+        if el.find_parent(kin): el.unwrap()
+    PUNCT = '.,;:!?)]’”'
+    for el in t.find_all(['em', 'i', 'strong', 'b']):     # emphasis on bare punctuation adds nothing
+        if el.get_text(strip=True) and all(c in PUNCT + '([‘“ ' for c in el.get_text(strip=True)):
+            el.unwrap(); continue
+        first = el.contents[0] if el.contents else None
+        if isinstance(first, NavigableString) and first[:1] in PUNCT:
+            lead = re.match(r'^[' + re.escape(PUNCT) + r']+', str(first)).group(0)
+            el.insert_before(lead); first.replace_with(str(first)[len(lead):])
+    for el in t.find_all(['em', 'i', 'strong', 'b']):
+        while el.contents and (getattr(el.contents[-1], 'name', None) == 'br' or
+                               (isinstance(el.contents[-1], NavigableString) and not el.contents[-1].strip())):
+            el.insert_after(el.contents[-1].extract())   # trailing <br>/space moves outside
+        if not el.get_text(strip=True) and not el.find(['img', 'br']):
+            el.unwrap(); continue
+        first = el.contents[0]
+        if isinstance(first, NavigableString) and first != first.lstrip():
+            el.insert_before(' '); first.replace_with(first.lstrip())
+        last = el.contents[-1]
+        if isinstance(last, NavigableString) and last != last.rstrip():
+            el.insert_after(' '); last.replace_with(last.rstrip())
+    return str(t)
+
+def to_markdown(html_body):
+    html_body = md_ready(html_body)
+    embeds = []
+    def stash(m):
+        embeds.append(m.group(0)); return f'<p>CSSEMBED{len(embeds) - 1}</p>'
+    src = EMBED.sub(stash, html_body)
+    md = subprocess.run(['pandoc', '-f', 'html+raw_html', '-t', 'markdown_strict', '--wrap=none'],
+                        input=src, capture_output=True, text=True, check=True).stdout.strip()
+    for i, e in enumerate(embeds):
+        md = md.replace(f'CSSEMBED{i}', '\n' + e + '\n')
+    md = re.sub(r'\{(?=[{%])', "{{ '{' }}", md)                       # literal {{ / {% stay literal
+    md = re.sub(r'\]\(/(?!/)', '](' + '{{ site.baseurl }}/', md)          # markdown links/images
+    md = re.sub(r'((?:href|src)=")/(?!/)', r'\1{{ site.baseurl }}/', md)  # raw HTML links/images
+    return re.sub(r'\n{3,}', '\n\n', md).strip()
+
+converted = 0
+for coll in ('news', 'commentary', 'humanitas', 'epistulae', 'events', 'team'):
+    for f in glob.glob(os.path.join(SITE, '_' + coll, '*.html')):
+        src = open(f, encoding='utf-8').read()
+        head, sep, body = src.partition('\n---\n')
+        md = to_markdown(body.strip())
+        open(f[:-5] + '.md', 'w', encoding='utf-8').write(head + sep + '\n' + md + '\n')
+        os.remove(f); converted += 1
+report.append(f'converted {converted} docs to Markdown')
 
 json.dump(report, open(os.path.join(os.path.dirname(CRAWL), 'build_report.json'), 'w'), indent=1)
 open(os.path.join(os.path.dirname(CRAWL), 'uploads.txt'), 'w').write('\n'.join(sorted(uploads)) + '\n')

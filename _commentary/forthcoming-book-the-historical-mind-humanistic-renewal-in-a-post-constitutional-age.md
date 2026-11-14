@@ -1,0 +1,10 @@
+---
+title: "Forthcoming Book: “The Historical Mind: Humanistic Renewal in a Post-Constitutional Age”"
+slug: "forthcoming-book-the-historical-mind-humanistic-renewal-in-a-post-constitutional-age"
+date: 2020-05-05T12:05:50-04:00
+image: "/uploads/2020/05/The-Historial-Mind-727x409.jpg"
+---
+
+<img src="{{ site.baseurl }}/uploads/2020/05/The-Historical-Mind-SUNY-Ad.jpg" loading="lazy" />
+
+------------------------------------------------------------------------

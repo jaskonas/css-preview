@@ -1,0 +1,13 @@
+---
+title: "Forthcoming Books from CSS Scholars"
+slug: "forthcoming-books-from-css-scholars"
+date: 2019-06-14T13:59:38-04:00
+image: "/uploads/2019/06/Desk-727x409.jpg"
+excerpt_text: "2019 will witness two book releases from CSS scholars. In August, Founding Director Professor Claes G. Ryn’s A Common Human Ground: Universality and Particularity in a Multicultural World will be released with…"
+---
+
+2019 will witness two book releases from CSS scholars. In August, Founding Director Professor Claes G. Ryn’s *A Common Human Ground: Universality and Particularity in a Multicultural World* will be released with a new preface from the University of Missouri Press. In that book, Professor Ryn explores the great danger of turbulence and war in the modern era and propounds a strongly argued thesis about what can make peaceful relations possible.
+
+For more information, including the opportunity to purchase the book at a 30% discount, please [click here](https://upress.missouri.edu/9780826222039/a-common-human-ground/). In November, the University of Michigan Press will release *Democracy and Imperialism: Irving Babbitt and Warlike Democracies*, the first book from CSS Managing Director Dr. William S. Smith. Smith asks whether an interventionist foreign policy is compatible with the American constitutional tradition, bringing brings the question of soul types to issues of foreign policy leadership and discussing the qualities in leaders that are necessary for sound foreign policy. For more information on *Democracy and Imperialism*, please click [here](https://www.press.umich.edu/11301249/democracy_and_imperialism).
+
+------------------------------------------------------------------------

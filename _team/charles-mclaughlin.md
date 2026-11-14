@@ -1,0 +1,12 @@
+---
+title: "Charles McLaughlin"
+slug: "charles-mclaughlin"
+photo: "/uploads/2019/03/CJMHeadshot.jpg"
+position: "Former Director for Strategic Planning"
+org: "National Security Council"
+groups: ["current-visiting-fellows", "visiting-fellows"]
+---
+
+Charles McLaughlin is an experienced foreign policy practitioner and comes to the Center for the Study of Statesmanship with a background that includes leadership in government, the private sector, nonprofit organizations, and education. His interests include the art and practice of strategy and statesmanship. From 2017-2021 he served as Senior Advisor for National Security Affairs to the President & CEO of the Overseas Private Investment Corporation (now the U.S. International Development Finance Corporation), Director for Strategic Planning at the National Security Council, and Senior Advisor in the State Department’s Office of Policy Planning. Prior to joining the government, Charles was a private sector strategy consultant and an executive at a global hedge fund. He began his career as a U.S. Army officer, first in the Armored Cavalry and then the Special Forces. After leaving active duty he continued military service in the Army Reserve, retiring as a colonel in 2016. His military background includes humanitarian, peacekeeping, and combat operations; strategic planning roles; and tours as a faculty member at West Point.
+
+Charles is a 1986 graduate of the United States Military Academy and holds an A.M. in Russian Area Studies from Harvard University, an MBA in strategic management from MIT, and a Master of Strategic Studies from the U.S. Army War College. A Knight of Malta, he is active in church and nonprofit organizations. Charles lives in northern Virginia with his wife, an Army JAG officer, and two sons.

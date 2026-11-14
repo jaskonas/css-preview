@@ -1,0 +1,10 @@
+---
+title: "Sarah Kreps"
+slug: "sarah-kreps"
+photo: "/uploads/2019/03/Kreps-Sarah.jpg"
+position: "Senior Visiting Fellow"
+org: "Professor of Government and Adjunct Professor of Law, Cornell University"
+groups: ["previous-visiting-fellows", "visiting-fellows"]
+---
+
+Sarah Kreps is professor of Government and Adjunct Professor of Law at Cornell University. In 2017-2018, she was an Adjunct Scholar at the Modern War Institute (West Point). She is also a Faculty Fellow in the Milstein Program in Technology and Humanity at the Cornell Tech Campus in New York City. Dr. Kreps is the author of four books, including, most recently, [*Taxing Wars: The American Way of War Finance and the Decline of Democracy*](https://www.amazon.com/Taxing-Wars-American-Finance-Democracy/dp/019086530X/) (Oxford University Press, 2018), which deals with the causes and consequences of how advanced industrialized democracies such as the US, UK, and France pay for its wars. Kreps holds a B.A. from Harvard University and a Ph.D from Georgetown University. Between 1999-2003, she served in active duty in the U.S. Air Force.

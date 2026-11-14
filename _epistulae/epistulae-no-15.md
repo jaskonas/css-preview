@@ -1,0 +1,168 @@
+---
+title: "Punk Rock, Prufrock, and the Words We Live By—The Importance of Poetry"
+slug: "epistulae-no-15"
+number: 15
+date: 2012-01-24
+author: "Thomas H. Landess"
+excerpt_text: "If you’re a businessman you don’t have time for poetry, unless, of course, you happen to enjoy it the way other businessmen enjoy Monday Night Football. Certainly you don’t feel you have to read it. There’s no…"
+---
+
+If you’re a businessman you don’t have time for poetry, unless, of course, you happen to enjoy it the way other businessmen enjoy Monday Night Football. Certainly you don’t feel you *have* to read it. There’s no poetry in the *Wall Street Journal* or *Barron’s*, unless you are one whose heart is stirred by the language of the New York Stock Exchange, where on occasion “To be or not to be . . .” is the drabbest kind of prose compared with “up two points.” No, poetry has nothing to do with business and the more important aspects of modern life.
+
+Well, what about “popular poetry”? What about song lyrics? What about punk rock? If in addition to being a businessman you are also a middle-aged parent—particularly one who gave up listening to disc jockeys in the 1950s—you’ve been reluctant to *think* about punk rock, much less to listen to it with any degree of seriousness.
+
+You’ve heard it screeching and pulsating under the doors of your teenagers’ rooms; maybe it suddenly shattered your eardrums one morning when you turned on the automobile ignition; or you became aware of it more gradually as you drove along with your daughter and realized that you were about to scream because the four-speaker stereo had been playing just below the level of conversation for the last ten minutes.
+
+Yet the time comes when the one-eyed monster dragging itself up and down the hallways of your house has grown so hulking and raucous that you can’t ignore it any longer. It seems to have possessed the souls of your once-angelic children. They walk and talk differently. They give you surly looks at the dinner table. Your son gets a mohawk.
+
+So one night—despite the fact that poetry is irrelevant to business—you charge downstairs, pound on the door, and say, “O.K. I want you to tell me what you see in this noise anyway!” After their inarticulate explanation—punctuated by long silences and heavy breathing—you snatch up a stack of albums, haul them off to your study, and begin to listen to them with your best critical ear.
+
+The result is—to say the least—disturbing. It occurs to you that the TV evangelists who shout and wave their arms may be right about one thing. As the gospel song says, “We need a whole lot more about Jesus, and a lot less rock-and-roll.”
+
+In addition to the music itself, most of which is childlike in its simplicity, you are struck by the monotony of the lyrics, the heavily ironic denunciations of the social order or else the shrill affirmation of the glory and centrality of self. It’s nothing like the good, wholesome music you used to listen to.
+
+As best you can recall, in the songs of Irving Berlin the chief pronoun was the second person plural. In rock-and-roll it is more often the first-person singular; there are all sorts of songs about the necessity to be your own kind of person, to do your own thing, celebrations of the self and its intensely felt experience of sexual joy and political pain. Or else there is no “I” or “you” at all but a sinister “they,” a third-person plural which seems to be responsible for all discomfort and inconvenience on the face of the earth, to say nothing of mere injustice and oppression.
+
+Realizing all this you go back downstairs and tell your children to listen to Mozart or Scarlatti; but they answer that punk rock is where the spirit of the age lives—curled up on a littered floor, its head resting on a stack of empty beer cans, whining about the oppressiveness of society. Punk rock, you are told, *is* America. If Mozart and Scarlatti were just starting out these days they’d be punk rockers. So would Byron and Shelley. So would the Prophet Isaiah.
+
+**From Irving Berlin to Sid Vicious**
+
+You have to agree that there’s a little of each of these in the songs you’ve listened to (Mozart and Scarlatti used some of the same notes), but there’s something else as well, besides the incorrigible ignorance of the young. You see evidence of a pride that sets itself against the most basic prescriptions of Western civilization without so much as the slightest blush or apology. You see it in the eyes of the performers as they glare out at you from angry album covers, filled with graphic oddities, pretentious satanist symbols, and casual obscenity. Mostly the rock groups are pictured in performance, dressed in outright costume or else ersatz shabby. Their names suggest their contempt for the things that others hold in highest esteem: Crass, The Clash, Social Distortion, The Circle Jerks, The Dead Kennedys. And more to the point: Bad Religion, Crucifix, The Lords of the New Church.
+
+Is it all a bad joke or are these people serious? In one sense, of course, they couldn’t possibly be serious any more than a ten-year-old could be seriously in love. In another sense—the more obvious sense—it’s hard to tell. You can see the black humor in someone calling himself “Sid Vicious,” as did one of The Sex Pistols. But when he murders his girlfriend and then dies of an overdose, perhaps we should begin to assume that the symbolism of these names is serious indeed.
+
+But the only way to tell for sure is to examine the lyrics of punk rock and try to see what it claims for itself. Here are a couple of examples, the first from a group called The Lords of the New Church, the second from The Clash.
+
+> The City eats its children of dust from the cradle to grave.  
+> Drag their captives through the deep-sleeps of life.  
+> Ghosts of dream-dwelling slaves.  
+> The stranger scares the creatures of night.  
+> Corpse of sluggards fall.  
+> First you called it experiment, and then the terror called.  
+> The subterranean escapes the light to an empty space.  
+> I’ll do my time prowling in the streets behind a human face.
+>
+> *and*
+>
+> Thank God for the rain to wash the trash off the sidewalk.  
+> Listen, here is a man who would not take it anymore,  
+> A man who stood up against the scum.  
+> The filth now I see clearly.  
+> Personally I know the alley  
+> Where Jack feeds on the birds of night. Not  
+> even bobbies on bicycles, two by two, Can  
+> stop the blood and feathers flying.
+
+The more you examine these lyrics the more you realize that you’ve heard this kind of talk before. Thirty, maybe forty years ago—in an English class on modern poetry. The memory eludes you like—like voices dying from a dying fall. Who was it who wrote this way, with that marvelous discontinuity of images, the fine illogic, the ironic tonal qualities that excited you when you were nineteen or twenty years old? There is nothing, you suddenly remember, quite so exciting as being young and world-weary. And thirty years ago no one spoke so persuasively to your imagination as did T. S. Eliot in *The Lovesong of J. Alfred Prufrock* and *The Waste Land*.
+
+It was T. S. Eliot who invented this kind of verse! The revelation takes you by surprise. You’re shocked; then skeptical. You take out your Norton Anthology, and sure enough—there it is, on page 1786: *The Waste Land*.
+
+> “What are you thinking of? What thinking? What?  
+> “I never know what you are thinking. Think.”
+>
+> I think we are in rats’ alley  
+> Where the dead men lost their bones.
+>
+> “What is that noise?”  
+> The wind under the door.
+
+Eliot, of course, is a classic American poet, one whose mature commitment to traditional Christian institutions and attitudes was central to an understanding of his overall achievement as a man of letters. Yet it is surely from his early work and from the work of his followers and imitators that punk rock derives much of its poetics, if “poetics” is not too foolish a word to use here.
+
+**Waste Land of Language**
+
+Note, for example, the line, “The city eats its children of dust from the cradle to grave.” First, there is the balancing of the genuinely innovative phrase with the cliche. Such ironic juxtapositions were characteristic of Eliot (see the seduction and pub scenes in *The Waste Land*), and were derived, at least in part, from his early contempt for everyday life and for the community at large, which he suggested was either effete (as exemplified by Prufrock) or brutal (as exemplified by Sweeney). He seemed to believe that modern society was made up of human beings toward whom he could feel morally as well as intellectually superior, and he mocked such people by throwing their own banal language back in their teeth. So did Sinclair Lewis. So did Hemingway. So in more recent times has Walker Percy.
+
+Today it’s old hat. Yet Eliot’s use of debased slang and middle-class cant was new to poetry in the years immediately following World War I, and the ironic tone produced by the introduction of such language was to affect virtually every major American poet for the next twenty-five or thirty years. It was fresh and exciting sixty-five years ago, and it fed the tendency of many educated people to think themselves a higher breed than the Prufrocks and Babbitts. They adopted Eliot’s irony, and with it they put on the mantle of skepticism as well; because you can’t use a rhetoric for long without assuming the virtues and vices that lie behind it. Soon several generations of college graduates were speaking and thinking according to the example of Eliot’s voices.
+
+The second characteristic of Eliot’s poetry which one finds in the punk rock passages quoted above is a kind of deliberate vagueness of diction that is maddening to a literalist and exciting to a certain kind of poetic sensibility. The sentence “The subterranean escapes the light to an empty space,” for example, can’t be paraphrased or even completely explained. Indeed Eliot himself, in responding to bemused questioners at public lectures, was perfectly willing to accept any reading that was suggested to him.
+
+The origins of this view of language are multiple and mysterious. But one point stands out for purposes of our discussion: Eliot believed that language was by definition vague and imprecise, and that the poet’s task was not to imitate and explain the world but to stir up associations and feelings, to deal with the subjective rather than the objective. For him and for a whole generation to follow, the word was one thing, the thought a second, and the object a third—and there was no necessary connection between any two of them.
+
+Such a theory of language might well lead one to question whether or not experience has any concrete meaning that can be stated in words. If the tree you think you see is not necessarily there, and if other people don’t necessarily think they see the same tree that you do, then how can we possibly say that the word “tree” has any meaning? (If all this seems a little difficult to understand it’s not merely because I’m not explaining it very well, since at least some of the difficulty lies with the maddening subjectivity of modern philosophy.)
+
+The third characteristic of Eliot’s poetry that is also a trait of punk rock is the abrupt shifting of focus from one image to another without benefit of conventional transitions. Note in the examples above how fragmentary everything seems, as if the poem or song had been cut up with scissors, then a few of the phrases and sentences pasted back together in no particular order. Again Eliot’s discovery and use of such a device tells us something about the way he wants his readers to perceive the world of the poem. The mind of Prufrock and the observer of *The Waste Land* are, by strong implication, fragmented and incoherent. Prufrock is what we would now call a “wimp,” a man who is so intimidated by the world around him that he can neither love nor act in the way he wishes but is finally paralyzed by his fear of social convention, despite the fact that he regards society as empty and hypocritical. Likewise Tiresias (or the speaker) in *The Waste Land* sees the present as a broken mosaic of the past, a meaningless collage of unpleasant sensations which might take on renewed significance only when rejuvenated by a vital past or the infusion of values from another culture, one in which religion and sexuality play an important role.
+
+Thus the world as viewed in these poems is incoherent and sordid—sordid, in part, because it is incoherent. Eliot is suggesting that the loss of any sort of metaphysical orthodoxy makes it impossible to find vitality and purpose in life; yet modern man, while recognizing his predicament, can do very little about it, except perhaps to flirt with Eastern religions or to re-read the classics.
+
+These three technical aspects of Eliot’s work—the ironic use of language, the vagueness of imagery and diction, the disjointed movement of the poem—all combine to emphasize his thematic concerns at this stage of his career; and if you don’t draw too neat a picture you can show that the technique and the meaning of the poem are perfectly wedded to one another, not only in Eliot’s work but in the songs of The Clash and The Lords of the New Church as well.
+
+**Undressing the Old Order**
+
+For an understanding of what Eliot was saying about the world in 1917 you have only to examine the following passage in *The Love Song of J. Alfred Prufrock*, the one which tells us all we need to know about the hero’s physical appearance:
+
+> And indeed there will be time  
+> To wonder, “Do I dare?” and, “Do I dare?”  
+> Time to turn back and descend the stair,  
+> With a bald spot in the middle of my hair—  
+> \[They will say: “How his hair is growing thin!”\]  
+> My morning coat, my collar mounting firmly to the chin,  
+> My necktie rich and modest, but asserted by a simple pin—  
+> \[They will say: “But how his arms and legs are thin!”\]  
+> Do I dare  
+> Disturb the universe?  
+> In a minute there is time  
+> For decisions and revisions which a minute will reverse.
+
+One of the most important things that Eliot tells us in this segment of the poem is the way which Prufrock dresses and the manner in which the reader is supposed to respond to this mode of dress. The description means less and less to us as the memory of even the recent past fades, but Eliot’s first readers would have understood that Prufrock was following a very rigid and explicit code for dressing before the hour of six: black morning coat, gray vest, ascot tie, striped pants, black shoes, spats. And on the head nothing else but a bowler.
+
+All the men wore the same thing. It was like a uniform at a military academy, and the implications of wearing it were essentially the same: the individual was less important than the community. Oh, you could wear a highly personal stick pin if you wanted to, though nothing too flashy, nothing that would set you apart radically from the other men at the occasion, whether tea dance or music recital. It all sounds bizarre to those of us who live in an age when shirts and slacks are as colorful as the plumage of Australian birds.
+
+And in contrast to the conventionally dressed Prufrock, whose inhibitions and frustration are expressed in his conformity, you have only to look and listen to understand how different is the world of punk rock. Everyone is dressed according to his own private code. Everyone is therefore in costume—bizarrely, uniquely himself in the fatigues of Che Guevara, or tight jeans with only a vest for a top, or at times near nakedness, and public nakedness at that.
+
+And the same might be said of “characters” in punk rock songs, most of whom, when they are rendered visually, are depicted in the act of sexual intercourse. In effect they are “dressed” or “undressed” in stark contrast to Prufrock. It might even be argued that they are the men that Prufrock is longing to become—rebellious, self-assertive, sexually aggressive. All ego.
+
+The more you think about it, the more you realize that like the punk rockers he spawned Eliot in his ironic juxtapositions, his vague language, and his disjointed imagery was attacking civilization itself, or at least society as he understood it in his own time. He was suggesting in his portrait of Prufrock that the manners and conventions of the social order—as symbolized by its clothes—were empty and inhibiting, mere form without the vitality that human institutions must exhibit in order to nurture the heart and the soul. The attack is a linguistic one and has as its ultimate intent the destruction of an older decorative language, the sort of rhetoric used by most nineteenth-century public men and in the twentieth century only by such splendid anachronisms as Douglas MacArthur and Winston Churchill.
+
+That the attack was successful is evidenced by the obscene irreverence for all things traditional that is so widespread and so much a part of our world that it blares over our children’s radios sixteen hours a day and leers at us from every TV and movie screen. “Get rid of those clothes,” Eliot told a small readership in the years immediately following World War I. “Get rid of those clothes,” say the punk rockers in four-letter words and obscene gestures. And today all over America and Europe people are doing just that—and by the millions.
+
+Prufrock was stilted and diffident in his relations with women because of the outmoded restraints of social convention; today, while punk rockers scream the same message that Eliot spoke so quietly and archly, we’re no longer worried about the strictures of society so much as the spread of AIDS and herpes and a rate of illegitimate births that soars in direct proportion to the amount of contraceptives, birth control pamphlets, and abortions sponsored by government at every level.
+
+And clothes today are so clearly a mockery of traditional modes of dress that our schools and colleges are all too often a battleground on which armies of polo players and alligators march into a kind of sartorial Armageddon, fighting it out with rock T-shirts and black chrome-ringed bondage pants ordered from the ads in the back of *Rolling Stone*. Of course the dress is just as stylized as it ever was: one army defends an ignorant, nouveau-riche consumerism while the other fights for the enthronement of garbage-man chic. Neither would wear a morning coat because, on the one hand, they wouldn’t be able to tell its quality without an outside label and, on the other hand, they couldn’t wear it thin enough to affect proletarian poverty.
+
+**Selfishness, Earth Deity of Oz**
+
+To summarize, then, the language of the first half of the twentieth century has brought us to a crisis in the second half, when the world of punk rock and the world of middle America are more and more indistinguishable from one another, as evidenced by the increasingly formless way in which most Americans live their lives, their almost immeasurable self-indulgence as revealed in statistics on alcoholism, drug addiction, shoplifting, divorce, suicide, murder, rape.
+
+The truth is, the society that Eliot satirized and the punk rockers are attacking doesn’t really exist any more. It’s been done in. In recent years the apparent triggermen have been the opinion-makers of the media: the earnest-eyed, deadpanned news correspondents who, for the sake of a Higher Good, have hidden or distorted opposing opinions, jerry-rigged film clips, faked news events, made up entire histories, staged demonstrations, and above all turned the English language into a graduate assistant in Sociology in order to bring about a political change with which everybody will be immediately dissatisfied; the film-makers and TV producers who have recognized the potential for prurience in all human communities and for money have made us believe that lust, which was once regarded among the Seven Deadly Sins, is in fact a great virtue among free people or at best an amusing and harmless overflow of natural appetite; the holding companies which now own most of the major publishing houses and as a matter of course demand that editors seek books which will yield a high short-term profit by appealing to the public’s growing addiction to sensationalism; the recording studios which are doing the same thing, even in areas like country music, which were once more closely attuned to the sensibilities of small-town America than the other segments of popular music.
+
+But as much as the explanation may satisfy us, it’s wrong to blame the media for this phenomenon of disintegration. In the first place, “media” is a plural noun (though most people don’t seem to know it) and there is every opportunity for a diversity of opinion, style, and taste to assert itself. The *New York Times*, MGM, the television newscasters, and Norman Lear have not entered into a conspiracy to corrupt a good and simple people.
+
+With almost no exception that comes immediately to mind, the men and women whose work appears on the editorial pages of the great Eastern opinion mills or on the screens of your television set are badly educated and ill-trained. Their attitudes are conditioned by four years at what are still called (and once were) “the best schools,” followed by life in one of the great coastal metropolises, which is a little like living in the Emerald City—it’s the biggest, flashiest thing around, but its way of life and its philosophical attitudes are controlled by a wizened little charlatan who hides behind a screen and pretends he is the Great and Powerful Oz. His name, as some of us know, is really Selfishness.
+
+These people are mostly too ordinary and unimportant to be responsible for the tremendous changes that have taken place in our time. None of them is Genghis Khan. They’re not even privates in the barbarian army. They’re merely camp followers, tagging along behind, hoping to turn a trick and make a buck, all the while absolutely certain they’re serving some marvelous earth deity who will liberate the human spirit from its old enemy the Lord God Jehovah.
+
+No, the real destroyers of our society, as I have already suggested, are words, which are the clothes we wear to tell the world and God who we are. And if we want to find out what kind of dress the next generation will choose we had better consult the poets, in whose hands the language is always resting, like a still-beating heart waiting to be transplanted into the body politic.
+
+**Civic Duty of Poets**
+
+And how is this so? Ezra Pound gave as good an explanation as any when he wrote: “Good writers are those who keep the language efficient. That is to say, keep it accurate, keep it clear. It doesn’t matter whether the good writer wants to be useful, or whether the bad writer wants to do harm. Language is the main means of human communication. If an animal’s nervous system does not transmit sensations and stimuli, the animal atrophies. If a nation’s literature declines, the nation atrophies and decays.”
+
+Let me hasten to explain that Pound is not saying the poet should write about the ills of society, that he should prescribe solutions to problems. To the contrary, he says that those things don’t matter as much as the poet’s responsibility to purify and reinvent the diction and syntax of literature in accordance with the true world in which he lives, as opposed to the false world created by false language. The poet, he tells us, restyles our rhetorical clothing constantly so that practical men and women can go into the community as competent human beings and carry on its business. If the poet does *his* job well then presidents, businessmen, and plumbers can do *their* jobs well.
+
+So how long does it take the poet to reclothe the community? Well, the day after Prufrock was published the American flag still flew over the Boston post office. It flies there today, but it doesn’t quite stand for the same thing it stood for in 1917. Yet such change takes place slowly. At first it affects only a few literate and highly influential people. Later it reaches a wider and less esoteric audience. Eventually it seeps down to the lowest level of society, which is where popular music lives. At that point it is still alive culturally but intellectually dead. Thus the lyrics of Irving Berlin were late nineteenth-century Romanticism, served up as hash for the most mawkish of sensibilities; while, as we have seen, the Sex Pistols follow Eliot by a mere sixty years.
+
+But the punk rock composer is not like the genuine poet. He is merely a reflection of popular political attitudes turned sour, the revolution of the 1960s nostalgically revisited. The revolution itself was the major catastrophe caused by the poetry of the ’20s and ’30s. Read the slogans in the signs of antiwar demonstrators and gay liberation paraders. They are the greeting cards of the past, messages from poets dead and buried in the grave of memory.
+
+But what can we do about it? Just knowing that Eliot and his generation are responsible for the punk rock element in America doesn’t really help us, does it, any more than it would help a man dying of rabies to be introduced to the rat that bit him?
+
+It’s a desperate situation. If the problem is language then no ordinary political solution is possible—no program, no decision by the Supreme Court, no amendment to the United States Constitution. Can’t you imagine the President’s Blue Ribbon Commission on the Restoration of Good Language reporting to the nation on what the government ought to do to spur the poets into performing their civic duty? No, it wouldn’t even work if we held guns to their heads and said to them, “Write us poems that will clothe us in the language of hope and love and peace.” A good poet would rather be shot than to work under such circumstances.
+
+It must all happen quietly and secretly in the souls of a few men, but it can and does happen, always it happens, if the situation is desperate enough. As an illustration of this final point let me remind you that the first great poet of Western civilization wrote an epic narrative which was in part about the need for the right language in order to create the proper clothing for society. The poet is Homer and the poem is *The Odyssey*.
+
+You may remember that as the narrative opens Odysseus, the hero, is living on an island with Calypso, a woman who looks surprisingly like Bo Derek and will never look any worse since she is an immortal goddess. She is in love with Odysseus, a mere man, and she has a great deal to offer him. She owns a liquor store, all the fast-food franchises, a twenty-five-inch Curtis Mathes with a Betamax. It goes without saying that she offers herself as well. But there is one more gift, the most precious of all—that of eternal life. She has connections in high places. She will make him a god. Who here today could refuse that offer?
+
+**Clothed by the Living Word**
+
+But Odysseus does refuse. He’s had propositions like this before. Circe, who turns men into pigs, wanted him to stay with her as well; but Odysseus was as adamantly opposed to being a pig as to being a god. He chooses instead to be a man and return to his wife and son. That is, he chooses to die. (And remember that he has heard Achilles down in Hades tell him that he would rather be a living slave than a dead shadow floating in that perpetually doomed twilight. Odysseus knows as well as we do what it means to die.)
+
+Yet he puts to sea, only to suffer one last indignity. He is caught up in a terrible storm. His clothes are stripped from his body. Finally he is tossed on the shores of Phaiakia where he is discovered by the princess of the realm and her retinue. What is he to do? Though a king, he appears to be no more than a worm—naked, completely naked, dirty, covered with the salt slime of the sea, divested of the fine trappings of civilization—for all the princess knows, a barbarian. A lesser man might have turned and fled.
+
+But Odysseus is no coward. He begins to speak, and she is enchanted by the clear beauty and high formality of what he says. Though the handmaidens flee with the first words, the princess remains—to listen, then to offer him the hospitality of the palace itself; for she is convinced that he is a man of great nobility and stature.
+
+What he has done on this primitive island, literally thousands of years ago, is something we must do through our poets in our own time. He has reclothed himself with nothing more than language so that he stands before her in the ancient and uniquely human robes of rhetoric, a creature of dignity, something more than the pig that Circe (the punk rockers) would make of him, something less than the arrogant gods of Calypso’s (Eliot’s) promise. That is what Odysseus’ language says of his nature, that he holds firm to that middle ground in the hierarchy of Being where man has always stood, where he is something more than animal, something less than angel.
+
+Make no mistake—it is a place of splendor, and it belongs to us no less than to Odysseus, and perhaps we will reaffirm it soon, not because we have earned it, not because we ever could, but because it was given to us graciously, out of an Infinite Mystery that finally demands of us more than we ourselves would presume to be.
+
+For before time began we were clothed by the Living Word, by God Incarnate, accepting the humanity of words, condescending to define Himself by noun, verb, adjective—by all the finite parts of speech that through Him bind us forever and inextricably into the Wonder of Being. It is a mystery that He would want us to speak at all. It is glory enough, after all, to make us keep absolute silence, this knowledge that whenever we speak we speak His Name.
+
+**Thomas H. Landess**, who died on January 8, taught literature and creative writing in colleges and universities for twenty-four years. A true man of letters, he published several books and hundreds of articles and poems. This article is based on a paper he delivered at Hillsdale College in March 1984 for a seminar on the topic “Language Under Siege.” It is reprinted with permission from *Imprimis*, a publication of Hillsdale College.

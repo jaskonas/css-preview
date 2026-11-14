@@ -1,0 +1,12 @@
+---
+title: "Ninar Keyrouz"
+slug: "ninar-keyrouz"
+photo: "/uploads/2019/03/Ninar-Keyrouz.jpg"
+position: "Visiting Fellow"
+org: "In Defense of Christians"
+groups: ["previous-visiting-fellows", "visiting-fellows"]
+---
+
+Ninar Keyrouz is a film producer, writer, and a media and communications specialist with more than 15 years of experience in broadcast, advertising, and digital media in the Middle East and the United States. She serves as a senior adviser at In Defense of Christians, which advocates for the protection and preservation of Christians and Christianity in the Middle East.
+
+She is fluent in English, Arabic, French and can speak Assyrian (modern Aramaic). She was born and raised in Beirut, Lebanon, and holds a degree in communication arts from American University – Lebanon.

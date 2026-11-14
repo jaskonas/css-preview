@@ -1,0 +1,60 @@
+---
+title: "GOP slouches toward St. Paul"
+slug: "epistulae-no-2"
+number: 2
+date: 2008-09-05
+author: "Rod Dreher"
+excerpt_text: "Not long ago, you might have foreseen the Republican pilgrimage to St. Paul, Minn., as having all the brio of the Bataan Death March. Surprise! For all the party’s problems, Republicans find themselves with a…"
+---
+
+Not long ago, you might have foreseen the Republican pilgrimage to St. Paul, Minn., as having all the brio of the Bataan Death March. Surprise! For all the party’s problems, Republicans find themselves with a fighting chance of holding onto the presidency after all. Yet even if Mr. McCain pulls off a November upset, this week’s GOP convention will still mark the end of something. It will, in effect, be the last hurrah of the Republican Party as we’ve known it for a generation.
+
+The Republicans came to St. Paul to praise John McCain, but whether they know it or not, they also came to bury the party of Ronald Reagan.
+
+During the GOP primaries, the candidates’ frequent invocation of the sainted Reagan name telegraphed how little thoughtful or fresh his would-be heirs had to say. It has been 20 years since Mr. Reagan left the White House; imagine how pathetic it would have been had Democrats seeking the 1984 presidential nomination invoked JFK’s name at every breath. The world that produced Mr. Reagan, and Reaganism, has passed into history (thanks in large part to him and his successes).
+
+To survey the intellectually moribund Republican Party today is to be reminded of Edmund Burke’s paradoxical dictum: “A state without the means of some change is without the means of its conservation.”
+
+It’s also true of political parties and movements. The classic Reagan troika of anti-communism, low taxes and less government had a good run, but its day is done.
+
+The Soviet Union is dead, the People’s Republic of China has gone capitalist (if not democratic), and an aggressively militarized and moralistic foreign policy has mired America in the sands of empire. Our biggest economic problem now is not high taxes, but high deficits – a consequence of Reagan Republicans’ devotion to lowering taxes without concomitant cuts in spending.
+
+Neither Mr. Reagan nor his successors truly sought smaller government, hence the unintended honesty in GOP Rep. Mike Pence’s pathetic 2006 boast: “We may be the party of Big Government, but they are the party of Really Big Government.” If it’s an epitaph for the Reagan GOP you seek, that’s as good as any.
+
+For conservatism, a McCain presidency would be at best transitional, not transformational. The question that should be on every thoughtful conservative’s mind this week is: What kind of Republican Party – and what kind of conservatism – will arise out of the right’s crack-up?
+
+The answer, of course, depends on two related questions: What you think conservatism’s problem is today, and more deeply, what you think the conservative tradition has to offer contemporary America.
+
+Here’s a heretical thought: What if the most important work for conservatives to engage in at this moment has nothing to do with the Republican Party, or with politics at all? What if the Republicans are struggling to answer questions that aren’t the most critical ones facing our civilization? In fact, what if the conservative political scientist Claes Ryn is correct, and conservatives’ obsession with politics in the post-war era has been a massive distraction from the truly important work before us? As Dr. Ryn wrote in *The American Conservative*:
+
+> The problem \[for conservatives\], simply put, was lack of sophistication – an inability to understand what most deeply shapes the outlook and conduct of human beings. Persons move according to their innermost beliefs, hopes and fears. These are affected much less by politicians than by philosophers, novelists, religious visionaries, moviemakers, playwrights, composers, painters and the like, though truly great works of this kind reach most minds and imaginations only in diminished, popular form.
+
+By disdaining to take culture seriously, except to denounce it, conservatives ceded the field of imagination to liberals, who set the terms of debate.
+
+“Conservatives really don’t understand that culture trumps politics,” screenwriter and novelist Andrew Klavan told me recently. “A Ronald Reagan can change the political culture for 20 years, but that change can completely vanish, and conservatives will not even know how they got there. How does that happen? Through the culture. But we don’t even see that over time.”
+
+Mr. Klavan, whose most recent novel is the political thriller *Empire of Lies*, faults his fellow conservatives for misunderstanding and downplaying the importance of culture. Culture puts the ideas in people’s heads. “And not just popular culture, but high culture,” he said. “The people who write TV, they’re not watching TV. They’re going to the ballet, they’re reading poetry and novels, they’re partaking of the high arts.”
+
+It may or may not be important to elect Republicans to office, but conservatives who believe politics will lead to the renewal of a debased culture are mistaken. In fact, one measure of our decline is how little understanding most people who call themselves conservative have of the root causes of our civilizational crisis.
+
+It is to be expected that the liberal party would support the casting off of traditional restraints and adopt a cultural politics built around the autonomy – sexual and otherwise – of the individual. The conservative party offers only token resistance to “progress,” because if it were to mount an effective countercharge, it would find itself on the margins of power. The culture is no longer conservative – and there are and have been few, if any, effective sources of countercultural resistance from the right.
+
+That must change. That will change. Conservatives who can read the signs of the times sense that America is headed for hard times. The current order cannot stand for long. We have been squandering the cultural and economic capital built up by previous generations. We’re about to be foreclosed on.
+
+As former U.S. Comptroller David Walker tirelessly points out, the nation is headed over a fiscal cliff in the near long term. We cannot afford to make good on the promises our government has made to retirees and Medicare recipients, which will, among other things, force radical changes in the way extended families live. We also could be facing deep and lasting economic crisis because of our individual and governmental fiscal mismanagement.
+
+The military that undergirds the American empire is stretched thin. The volatile cost and availability of oil, the lifeblood of our economy, puts our collective future into serious question. The American education system is badly troubled, and what chiefly ails it defies the ability of policymakers to fix. The U.S. cannot or will not control its southern border. And so on.
+
+America has faced worse crises, of course. But it is questionable whether we have ever faced such difficult challenges with so few collective spiritual and moral resources to draw on. For traditionalists, the nature of our crisis is not that modern people don’t live up to standards; it’s that they deny there are standards to live up to
+
+Cultural liberalism and individualism – both of the Republican and Democratic kind – are luxuries society can afford in times of plenty. Self-discipline and self-reliance are tough sells when the good times roll endlessly on. Barack Obama called for no real sacrifices in his convention speech, nor did John McCain. Realism doesn’t sell; blind optimism does. Future generations will wonder why we were so reckless.
+
+In that sense, the chief task before conservatives is not to fight the Democratic Party or prop up the Republican Party. It’s nothing less than to recover what it means to be fully human in a postmodern world that denies human nature and the transcendent order underlying our affairs. We must lift our eyes higher than the horizons of the next election and build the institutions and customs that will create an enduring culture based on truth and beauty and virtue, even as all that is false and ugly and corrupt in modernity passes, as it must.
+
+History is cyclical, not linear. America’s is not the first advanced civilization to have fallen under the spell of its own power and given itself over to pleasure. “Luxury, more ruthless than war, broods over Rome and exacts vengeance for a conquered world,” Juvenal wrote at the beginning of Rome’s descent.
+
+Conservatives would do well to hold this thought when pondering how best to serve a country that has lost touch with the truths and traditions that made it the most powerful nation on earth. What happens in St. Paul matters far less to America’s future than what’s happening in our families, churches, schools and other institutions where character and imagination are cultivated.
+
+Does America need conservative politicians? Absolutely. But more than that, we need – and conservatives must produce – poets, pastors and professors of wisdom, honor and creative vision.
+
+**Rod Dreher** is an editorial columnist for the *Dallas Morning News*, from which this article is reprinted with permission in slightly modified form.

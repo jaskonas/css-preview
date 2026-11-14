@@ -1,0 +1,9 @@
+---
+title: "Democracy and Democratism"
+slug: "podcast-1-8"
+date: 2021-06-10T00:27:49-04:00
+soundcloud: "1065462661"
+excerpt_text: "We’re joined by Emily Finley of Stanford University and Arta Moeini of the Institute for Peace and Diplomacy for an “upstream” discussion on the deeper philosophical sources of our foreign policy problems,…"
+---
+
+We’re joined by Emily Finley of Stanford University and Arta Moeini of the Institute for Peace and Diplomacy for an “upstream” discussion on the deeper philosophical sources of our foreign policy problems, with a particular focus on the problem of democracy and elite leadership.

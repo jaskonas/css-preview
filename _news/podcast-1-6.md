@@ -1,0 +1,9 @@
+---
+title: "A Middle East Primed for New Thinking"
+slug: "podcast-1-6"
+date: 2021-05-05T19:25:08-04:00
+soundcloud: "1043365387"
+excerpt_text: "In this episode, we speak with Andrew Gilmour, a retired 32-year veteran of the CIA and author of “A Middle East Primed for New Thinking: Insights and Policy Options from the Ancient World.” We’re joined by…"
+---
+
+In this episode, we speak with Andrew Gilmour, a retired 32-year veteran of the CIA and author of “A Middle East Primed for New Thinking: Insights and Policy Options from the Ancient World.” We’re joined by CSS’ own Gil Barndollar.

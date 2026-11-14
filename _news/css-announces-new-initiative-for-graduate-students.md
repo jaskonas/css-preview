@@ -1,0 +1,23 @@
+---
+title: "CSS Announces New Initiative for Graduate Students"
+slug: "css-announces-new-initiative-for-graduate-students"
+date: 2020-09-01T11:27:42-04:00
+image: "/uploads/2018/01/How-We-Know-What-We-Know-727x409.jpg"
+excerpt_text: "CSS Announces New Initiative for Graduate Students"
+---
+
+<img src="{{ site.baseurl }}/uploads/2020/09/CSS-logo-1024x303.jpg" loading="lazy" />
+
+**CSS Announces New Initiative for Graduate Students**
+
+The Center for the Study of Statesmanship invites participation in a new workshop program for graduate students. The program is intended to advance the Center’s mission to explore “the meaning of statesmanship and how it can defuse conflict and foster respectful foreign and domestic relations.” Participants will take part in monthly one-hour paper workshops during a six month period with their peers and CSS affiliated scholars from around the country. Discussants will be drawn from CSS staff, its network of [visiting fellows,]({{ site.baseurl }}/visiting-fellows/) and its [Council of Advisors]({{ site.baseurl }}/advisory-council/) according to the themes of papers to be presented.
+
+We are particularly interested in papers that speak to the “moral, cultural, political, social, and financial costs of imperial ambitions, military interventions, and nation-building.” Admitted participants will be asked to read two articles that are representative of CSS’s mission and intellectual orientation, but these are not intended to indicate the only appropriate topics; papers on a wide range of subjects are welcome. Applications can be for papers already written, sections of dissertations (6,000-10,000 words), or works in progress at the beginning of the program. Papers that are presented at a workshop will be circulated privately at least a week before presentation. The meetings will be conducted online and run from October to March.
+
+In addition to the opportunity for networking and receiving candid, constructive feedback during the paper workshop, each participant will receive a stipend of $500 and be eligible for a $1,500 prize awarded for the workshop’s best paper. Applications are due by September 21<sup>st</sup>, 2020.
+
+Applicants should submit an up-to-date C.V. If proposing a paper already drafted or an excerpt from a larger project, please submit a 300-500 word abstract. If the proposed paper will be completed after the start of the program, provide a personal statement of similar length indicating what kind of subject you will address. Not all participants selected for the workshop will be asked to present a paper.
+
+Please submit your application to Justin Logan, CSS Director of Programs, at <loganj@cua.edu>.
+
+------------------------------------------------------------------------

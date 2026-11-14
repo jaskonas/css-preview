@@ -1,0 +1,16 @@
+---
+title: "Christopher Gibson"
+slug: "christopher-gibson"
+photo: "/uploads/2019/03/Chris-Gibson.jpg"
+position: "Visiting Fellow"
+org: "Stanley Kaplan Distinguished Visiting Professor of American Foreign Policy, Williams College"
+groups: ["previous-visiting-fellows", "visiting-fellows"]
+---
+
+Chris is the Stanley Kaplan Distinguished Visiting Professor of American Foreign Policy with Williams College and a Member of the Hoover Institution’s Working Group on the Role of Military History in Contemporary Conflict.
+
+Chris has over 35 years of distinguished public service. From 2011-2017, Chris served as a Member of the U.S. House of Representatives (NY-19). In Congress, Chris was recognized for Statesmanship, finishing \#1 among all Representatives of both political parties in the U.S. House in the inaugural report of the Lugar Policy Center Bipartisan Index in 2014. Serving on the House Armed Services, Small Business, and Agriculture Committees, Chris played an integral role crafting important legislation in strengthening national security, supporting veterans, revitalizing infrastructure, supporting family farmers, advancing rural economic development, recovering from devastating hurricanes, expanding broadband, fighting Lyme Disease, enhancing mental health, and reforming education policy.
+
+Prior to serving in Congress, Chris spent 29 years in the military where he rose to the rank of Colonel in the US Army. In his last assignment, Chris commanded the 82nd Airborne Division’s 2nd Brigade, leading them to Haiti on a humanitarian relief operation after the devastating earthquake there in 2010. Over the course of his Army career, Chris served four combat tours in Iraq and was awarded four Bronze Star Medals and the Purple Heart. Chris holds a Ph.D. in Government from Cornell University.
+
+Gibson’s published works on national security and civil-military relations have appeared in Armed Forces & Society, Military Review, Hoover Digest, and with Harvard University’s Project on Post-Cold War Civil-Military Relations. In addition, he’s authored two books, *Securing the State: Reforming the National Security Decision-making Process at the Civil-Military Nexus* published by Ashgate in 2008, and *Rally Point: Five Tasks to Unite the Country and Revitalize the American Dream* published by Twelve Books in 2017. Chris has also contributed a chapter to the book, *American Civil-Military Relations 50 Years after Samuel Huntington’s The Soldier and the State*, published by the Johns Hopkins University Press in October 2009. Finally, Chris has also published numerous opinion-editorial pieces on wide-ranging topics in both national and local media outlets. He previously taught American Politics at the U.S. Military Academy at West Point (1995-1998) and served as a Hoover National Security Affairs Fellow at Stanford University (2006-2007).

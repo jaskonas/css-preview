@@ -1,0 +1,72 @@
+---
+title: "Fifteen Years of Forever Wars"
+slug: "fifteen-years-of-forever-wars"
+date: 2018-05-15T13:00:22-04:00
+image: "/uploads/2018/05/May-1-2018-Hill-Event-727x409.jpg"
+author: "Chas W. Freeman"
+excerpt_text: "Fifteen years ago today, speaking in Kabul, Secretary of Defense Donald H. Rumsfeld declared that, in Afghanistan, “we clearly have moved from major combat activity to a period of stability and stabilization…"
+---
+
+**Remarks by CHAS W. FREEMAN • WASHINGTON, D.C. • May 1, 2018**  
+
+Fifteen years ago today, speaking in Kabul, Secretary of Defense Donald H. Rumsfeld declared that, in Afghanistan, “we clearly have moved from major combat activity to a period of stability and stabilization and reconstruction activities. “ Later that same day, standing on the flight deck of the USS Abraham Lincoln, President George W. Bush proclaimed that “…major combat operations in Iraq have ended. In the battle of Iraq, the United States and our allies have prevailed.” He described the U.S. overthrow of the Iraqi government as “one victory in a war on terror that began on September the 11th, 2001,” adding that our “war on terror is not over, yet it is not endless.”
+
+But, evidently, it is indeed endless. Secretary Rumsfeld defined success in this war as not creating more terrorists than we kill. That seems a fair standard. But, by this criterion, what we have done is clearly counterproductive.
+
+In 2003, we invaded Iraq to prevent weapons of mass destruction that did not exist from falling into the hands of terrorists who also did not exist until our arrival and subsequent misconduct begat them. In 2003, we were engaged in military operations in two West Asian nations – Afghanistan and Iraq. In 2018, the Cost of War Project at Brown’s Watson Institute documents American involvement in some level of combat in seventy-six nations. For at least the past fifteen years, we have been creating more terrorists than we kill.
+
+Anti-American terrorists with global reach and home-grown terrorists alike explain that they are over here because we are over there. Our political leaders keep saying that they can’t possibly have that right. Surely, they hate us because of who we are, not what we’ve done and where. But the kith and kin of the roughly four million Muslims we have been responsible for killing in the post-Cold War era say otherwise.
+
+We cannot erase past errors. We can and should learn from them. Yet we do not seem to be doing so. Instead, we continue to repeat our blunders. Sometimes the cause is hubris. We should have learned by now that not every cakewalk puts cake on your plate. Sometimes the cause is doctrinal delusion. When they encounter reality, some of the most popular axioms of neoconservatism shrivel up and die. At least the following six assumptions of interventionism consistently turn out to be false.
+
+*First*, wars in countries with significant natural resources, like oil, can easily be made to pay for themselves.
+
+*Second*, regime change can transform foreign societies because inside every foreigner there is a liberal democrat yearning to get out.
+
+*Third*, if you kick the natives hard enough they will turn into the moral equivalent of Canadians – meek, unfailingly polite to everyone, and reconciled to American primacy.
+
+*Fourth,* in addition to the gerbils who inhabit the deserts of the Fertile Crescent, this region is full of Arab moderates eager to risk their lives by bravely making war on savage Islamist fanatics.
+
+*Fifth*, exiles say what they mean and mean what they say; and
+
+*Sixth*, if we sock it to would-be terrorists over there, they won’t dare follow us home.
+
+The cost of the experience that has refuted these absurdities has been considerable. It starts with a lot of dead and maimed soldiers and mercenaries as well as nearly $7 trillion in outlays and unfunded liabilities to be met by future taxpayers.
+
+The dead and wounded come home. The money will never return. It was poured into the sands of West Asia and North Africa or ripped off by contractors. The fact that it was not invested in the general welfare and domestic tranquility of the United States accounts for our broken roads and rickety bridges, the educational malnutrition of our youth, the emerging class divisions in our society, and our reduced international competitiveness.
+
+We have just compounded the costs of the warfare state by cutting taxes. This lowers our national savings rate and stimulates consumption, adding to our trade and balance of payments deficits. But it also leaves all of our past, present, and future military spending – the defense budget and related outlays for veterans, nuclear weapons and propulsion, and so forth – to be funded by borrowing.
+
+Over 40 percent of our mounting liabilities are to foreigners, some of whom we have just designated as adversaries, i.e. candidates to become enemies. Our strategy for paying off our twenty-plus trillion dollar debt consists of endless credit rollovers. These risk inflation that will push up borrowing costs and advance the inevitable day of financial reckoning for our country.
+
+Today our homeland is shabbier and we are less – not more – secure than we were before we began our rampage through the Muslim world. Placing Russia and China at the top of our roster of enemies and preparing to go to war with them will make our military-industrial complex feel better by justifying the procurement of super-expensive weaponry. But it will not improve our position in the wars we are currently losing and it could lead to a devastating nuclear exchange that our country could not survive. We need to make an effort to extract the lessons of our misadventures in West Asia and North Africa so as not to repeat them.
+
+Here are a few thoughts on what some of those lessons might be:
+
+*First*, when people in high places twist intelligence to conform to their political convictions, unpleasant surprises and strategic setbacks are almost certain to follow.
+
+*Second*, wars whose objectives cannot be concisely stated are, by definition, purposeless. They squander rather than validate the sacrifices of the troops we commit to them.
+
+*Third*, if we do something without first asking “and then, what?,” the chances are excellent that we will not like the results.
+
+*Fourth,* starting wars without any idea of how we will end them, on what terms, and with whom, is a recipe for endless disaster.
+
+*Fifth*, there are not many problems that can be solved by the ill-considered use of force, but there are almost none that can’t be made worse by it.
+
+*Sixth*, strategies are not the same as campaign plans. Strategies are plans of action designed to achieve desired objectives through the lowest possible investment of effort, resources, and time, with the fewest adverse consequences for ourselves. Military campaign plans should implement strategies, not substitute for them.
+
+And *seventh*, reinforcing failure or doubling down on sunk costs does not repair defective policies. It just extends them and raises the costs of defeat. Sometimes, in foreign policy as in any other business involving investment, the wisest course of action is to cut one’s losses and quit on the best terms one can arrange.
+
+A final note seems in order.
+
+Americans do best when we are true to ourselves. This includes adhering to our constitution. Recent confirmation hearings in the Senate make one wonder whether our politicians, including those with distinguished careers as lawyers, have ever read the document.
+
+In Article II, Section 2, the Constitution makes the president “Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States.” This empowers the president to respond immediately to attacks on the United States, even before seeking guidance on war aims through a declaration of war from the Congress. But, in Article I, Section 8, Clause 11 the framers of the Constitution very deliberately reserved the power to authorize ***wars of choice*** to the Congress alone.
+
+All of the many wars in which the United States is presently engaged were presidentially ordained. None was expressly approved by Congress, which has shirked its duty to declare them and define their purposes – part of crafting sound strategy. This means that all our current wars are extra-constitutional – even the sixteen-year-long war to pacify Afghanistan, as opposed to the initial year-long effort to respond to 9/11 by rooting out al-Qaeda. And, all these wars began as illegal invasions of foreign sovereignty and breaches of the peace under the UN Charter and international law.
+
+As Americans we can and should do better than this. We need to learn from our mistakes, correct them, return to constitutional practices, and reconsider our policies. If our representatives in Congress will not stand up for the basic principles on which our republic was founded, who will?
+
+*Ambassador Chas. W. Freeman, Jr. (USFS, Ret.) is Senior Fellow at the Watson Institute for International and Public Affairs, Brown University, and a member of the Council of Advisors for the Center for the Study of Statesmanship*. *These remarks were delivered at a Center for the Study of Statesmanship-sponsored event on Capitol Hill*.
+
+------------------------------------------------------------------------

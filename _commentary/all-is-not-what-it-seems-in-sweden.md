@@ -1,0 +1,36 @@
+---
+title: "All is Not What it Seems in Sweden"
+slug: "all-is-not-what-it-seems-in-sweden"
+date: 2020-04-29T16:55:48-04:00
+image: "/uploads/2020/04/Sweden-Not-What-It-Seems-727x409.jpg"
+author: "Eva Johannissen"
+excerpt_text: "Sweden has been regularly cited in American media as a country that chose an approach to the Covid-19 pandemic different from that of the U.S. and the European countries. There have been pictures of Swedes…"
+---
+
+Sweden has been regularly cited in American media as a country that chose an approach to the Covid-19 pandemic different from that of the U.S. and the European countries. There have been pictures of Swedes crowding into outdoor restaurants, enjoying sunny early spring weather. Streets in central Stockholm have been shown looking “normal,” although the density of shoppers and pedestrians had been exaggerated through tele-lens photography. These news reports seemed to suggest social life little affected by the pandemic, as if Sweden had taken a more relaxed approach to the virus than other countries.
+
+Because of its tax-financed health care, long vacations, and parental leave policies, Sweden has long been viewed by liberal Americans as a model. For this reason, some Americans have speculated that the Swedish way of handling the pandemic must be another example of enlightened thinking. Paradoxically, in recent weeks many on the American right have also pointed to Sweden, thinking that it is showing unexpectedly good sense.
+
+However, the impressions created have been largely misleading. Perhaps the most notable difference between Sweden and most other countries in dealing with the virus is that the Swedes have let daycare centers and schools for up to 15-year-olds remain open. But some of them have closed on their own accord, and 30-40 percent of children have been absent from the rest since the crisis started. High schools and universities have long been closed.
+
+Sweden has otherwise chosen much the same approach to the pandemic as other countries. Its Central Health Authority (CHA) has issued stringent guidelines for protecting against infections. But the guidelines have from the beginning been transparently contradictory. On the one hand, the CHS has issued only “recommendations,” and, one the other hand, it has clearly demanded that citizens follow them. Here it must be noted that the Swedes are a traditionally consensus-oriented people who can be expected faithfully to abide by government decrees.
+
+The CHA has in this manner rather deviously avoided responsibility, making it possible to place all blame for policies not succeeding on those who have not followed the guidelines.
+
+Some young people in trendy, yuppie parts of Stockholm and other cities have used formal constitutional rights to congregate and frolic, sometimes inspiring older people to follow suit. The government has sharply reprimanded this conduct, threatening restaurant owners with closure if they did not in effect act as government enforcers of the elaborate and rigorous guidelines. Any blame for government policy not working as intended has thus been passed on to the citizens.
+
+Already before the crisis Sweden’s medical system suffered egregiously from queues and severe and increasing understaffing. Like most countries, it was very poorly prepared for a pandemic. Luckily, the worst did not hit Sweden until about a month later than in Italy. Sweden used the respite to reorganize its medical system. All non-urgent operations were cancelled, parts of ICU wards reserved for Covid-19 patients, and field hospitals set up with whatever equipment could be gathered quickly.
+
+Today, with ever new virus patients [needing care,](https://www.worldometers.info/coronavirus/country/sweden/) hospitals are strictly prioritizing ICU treatment, excluding, for example, patients over the age of eighty and other high risk groups. To ensure that ICU beds are available to new virus patients hospitals are struggling to keep beds unoccupied. Shortages of test kits, face masks, and other protective clothing, etc. remain a huge problem. In proportion to its population Sweden has had about the same death curve as most other Western countries (excepting those that locked down before the epidemic became endemic).
+
+Sweden has a very large elderly population. The death toll in elder-care facilities and among the old in immigrant families has been excruciating. Medical and social workers, who realize that they may be asymptomatic shedders, do not want to perform work without protective clothing, but all such materials are reserved for those treating confirmed cases. Many Swedes are horrified, especially as the government claimed from the beginning to be focusing its strategy on protecting the most vulnerable, the elderly.
+
+Nevertheless, in this country, where public television and radio wholly dominate reporting and opinion-molding, the general population has all along been very favorable to the CHS. Criticisms of measures taken or not taken have been quickly made the object of media and public outcry.
+
+The effect of virus-fighting efforts on the Swedish economy has been devastating. A very large number of small businesses have collapsed. All but essential industries closed down almost immediately and many face bankruptcy. People have been told to refrain from all non-essential travel. Virtually all air travel has been suspended. Unemployment figures are soaring. The opposition parties deem government counter-measures to be too little too late. They are also mainly in the form of interest-bearing loans that are not offered with any expectation that they will be forgiven. Hence companies are fearful of applying for support. Many suspect that some measures are a back-door to socializing large private companies.
+
+Contrary to impressions created in American media, Sweden’s approach to handling the pandemic has not been “relaxed,” but essentially the same as in other Western countries. This country of 10 million has been at least as preoccupied with the pandemic as other countries. Whether its approach has been as efficient remains to be seen. What may stand out as exceptional in the end is Sweden’s glaring lack of preparedness for a pandemic, especially for protecting its elderly, and that the dead are disproportionately recent immigrants.
+
+*Eva Johannissen is a Swedish novelist, painter, translator, and retired educator. Article originally published at* [The American Conservative](https://www.theamericanconservative.com/articles/all-is-not-what-it-seems-in-sweden/).  
+
+------------------------------------------------------------------------

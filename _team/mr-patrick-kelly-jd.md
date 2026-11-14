@@ -1,0 +1,14 @@
+---
+title: "Patrick Kelly"
+slug: "mr-patrick-kelly-jd"
+photo: "/uploads/2017/09/Mr-Patrick-Kelly-JD.jpg"
+position: "Deputy Supreme Knight, Knights of Columbus"
+org: "Former House Intelligence Committee Counsel"
+groups: ["advisory-board"]
+---
+
+Patrick Kelly is the Executive Director of the Saint John Paul II National Shrine and the Deputy Supreme Knight of the Knights of Columbus. Mr. Kelly has had a distinguished twenty-five year career in public service. He served as the Senior Advisor to the Ambassador-at-Large for International Religious Freedom at the U.S. Department of State where his responsibilities included providing policy guidance on religious freedom questions in Iraq, Iran and Israel. He also acted as the State Department’s principal interlocutor with the Holy See on religious freedom issues worldwide.
+
+Before his work at the State Department, Mr. Kelly served as the Legislative Counsel to the Permanent Select Committee on Intelligence in the U.S. House of Representatives. In 2016, Mr. Kelly retired with the rank of Captain from the U.S. Navy Judge Advocate General’s (JAG) Corps Reserves after 24 years of distinguished active and reserve service.
+
+Mr. Kelly holds a Master of Theological Studies from the Pontifical John Paul II Institute for Studies on Marriage and Family at the Catholic University of America in Washington, D.C. Additionally, Mr. Kelly holds a Bachelor of Science degree in Economics and a Juris Doctor from Marquette University.

@@ -1,0 +1,28 @@
+---
+title: "So Much for Diplomacy"
+slug: "so-much-for-diplomacy"
+date: 2021-01-25T17:27:32-05:00
+image: "/uploads/2021/01/Canadian_Sovereignty_5878501418-727x409.jpg"
+author: "William S. Smith"
+excerpt_text: "The Biden critique of the Trump foreign policy is twofold. The policy complaint is that an ‘America First’ foreign policy is a selfish foreign policy and ignores pressing global issues, such as climate change…"
+---
+
+The Biden critique of the Trump foreign policy is twofold. The policy complaint is that an ‘America First’ foreign policy is a selfish foreign policy and ignores pressing global issues, such as climate change and women’s rights, that are threats to all humanity. The president is not the leader of only the United States, Biden insisted, but the leader of the whole world. The second complaint was about process, i.e. Trump did not consult closely with allies before pressing forward; he made erratic and unilateral decisions that harmed our alliances. Yet with Biden’s snap decision to terminate the Keystone XL pipeline project, Biden has sent a clear signal that ‘leading the world’ may be more important than ‘consulting with allies’.
+
+From a policy perspective, revoking the permit for Keystone has many drawbacks, not least of which is the loss of 11,000 well-paying blue-collar jobs for Americans and Canadians. Given these layoffs, Biden’s famous argument in a recent *Foreign Affairs* [article](https://www.foreignaffairs.com/articles/united-states/2020-01-23/why-america-must-lead-again) that the United States needed a ‘foreign policy for the middle class’ is tragically laughable. Killing the pipeline is of course not a national but a globalist priority. It makes America less energy independent and has obvious adverse foreign policy consequences for the US given recent Middle East wars (fought by America’s middle class).
+
+Republican critics of the President will undoubtedly make these policy arguments, so there is no need to belabor them. What has gone unremarked about the decision, however, is the poor process: Biden unilaterally torpedoed the pipeline without so much as a phone call to our Canadian ally which views the pipeline as a very important joint US-Canadian initiative. Biden called Prime Minister Justin Trudeau *after* the Keystone decision had been announced. Alberta premier Jason Kenney [called](https://www.thestar.com/business/2021/01/20/canadian-press-newsalert-tc-energy-halts-keystone-xl-pipeline-project.html) the decision ‘an insult directed at the United States’s most important ally and trading partner’. Kenney was also dismayed that the US did not even *consult* with Canada before making such an important decision. Prime Minister Trudeau also expressed his ‘disappointment’ about the decision.
+
+Of course, the mainstream media will fail to notice that, for all of Biden’s complaints about Trump’s lack of diplomacy, the new White House throttled arguably our best ally on the first day of his presidency with zero diplomatic consultation. Many will rationalize this as the need for a new administration to ‘hit the ground running’ and, they will assure us, diplomacy will take center stage when the administration finds its sea legs. After all, didn’t Biden [promise](https://www.foreignaffairs.com/articles/united-states/2020-01-23/why-america-must-lead-again) to ‘elevate diplomacy to the United States’s principal tool of foreign policy’?
+
+The Keystone decision is a window into the boastful philosophical assumptions of Biden’s foreign-policy views. There is therefore good reason to be skeptical about his commitment to diplomacy.
+
+There is an inherent contradiction in the hubristic assertion that the United States is the world’s chief protector of universal values and global concerns, and the belief that this mighty and virtuous emperor will take seriously the opinions of other nations. After all, when the imperial project of ‘taking on’ climate change was threatened by a pipeline, who really cares what Canada thinks?
+
+With the Biden foreign policy, we are returning to George W. Bush’s swaggering view that the United States is the indispensable nation, the model of universal values to which all other nations should aspire. As Biden [wrote](https://www.foreignaffairs.com/articles/united-states/2020-01-23/why-america-must-lead-again), ‘It falls to the United States to lead the way. No other nation has that capacity. No other nation was built on that idea.’ To ‘champion liberty and democracy’ and to ‘take on the existential threat’ of climate change — these are imperial projects and, given their importance, we will see Biden reserve the right act unilaterally. As the empire propagates the world’s only true values, other nations will quickly discover that we don’t really care about their views — unless they happen to agree with us.
+
+The Biden critique of Trump’s lack of diplomacy is, in theory, a valid one. The problem is that Biden has embraced a view of America as a global empire of unmatched virtue, and such empires tend to eschew genuine diplomacy. Diplomacy can only be effective when leaders approach it with a certain humility, i.e. ‘maybe I am not right about everything, so I should consult with others’. As we again hubristically embrace America as ‘the indispensable nation’, others will discover, as the Canadians have, that braggarts don’t do diplomacy.
+
+*William S. Smith is Senior Research Fellow and Managing Director of the Center for the Study of Statesmanship at the Catholic University of America. His recent book is* [Democracy and Imperialism](https://bookshop.org/a/3057/9780472131532) *from the University of Michigan Press.*
+
+------------------------------------------------------------------------

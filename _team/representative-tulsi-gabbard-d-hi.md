@@ -1,0 +1,19 @@
+---
+title: "Former Representative Tulsi Gabbard (D-HI)"
+slug: "representative-tulsi-gabbard-d-hi"
+photo: "/uploads/2017/09/Rep-Tulsi-Gabbard.jpg"
+org: "Representing the 2nd District of Hawaii"
+groups: ["advisory-board"]
+---
+
+Tulsi Gabbard spent her life growing up in beautiful Hawai‘i. As a teenager, she co-founded an environmental non-profit called Healthy Hawai’i Coalition, focused on educating children about protecting Hawaii’s environment.
+
+An advocate for environmental policy, Tulsi was elected to the Hawai‘i State Legislature in 2002 when she was just 21 years old, becoming the youngest person ever elected in the state. A year later, she joined the Hawai‘i Army National Guard to serve Hawai‘i and our country. In 2004, Tulsi volunteered to deploy with her fellow soldiers, becoming the first state official to voluntarily step down from public office to serve in a war zone.
+
+Tulsi served two tours of duty in the Middle East, and she continues her service as a Major in the Army National Guard. Tulsi’s 2005 deployment was a 12-month tour at Logistical Support Area Anaconda in Iraq, where she served in a field medical unit as a specialist with a 29th Support Battalion medical company. She was awarded the Meritorious Service Medal at the end of this tour.
+
+In between her two tours, Tulsi served in the U.S. Senate as a legislative aide to Senator Daniel Akaka (D-HI), where she advised him on energy independence, homeland security, the environment, and veteran issues. While working for Senator Akaka in 2007, Tulsi graduated from the Accelerated Officer Candidate School at the Alabama Military Academy, where she was the first woman to finish as the distinguished honor graduate in the Academy’s 50-year history. Tulsi was commissioned as a Second Lieutenant and again assigned to the 29th Brigade Special Troops Battalion of the Hawaiʻi Army National Guard—this time to serve as the Military Police Platoon Leader. Tulsi continued to work for Senator Akaka until 2009, when she again voluntarily deployed with her unit to the Middle East. During this second deployment, in addition to leading her platoon on a wide variety of security missions, she also conducted non-military host-nation visits and served as a primary trainer for the Kuwait National Guard. Tulsi was one of the first women to set foot inside a Kuwait military facility and became the first woman to ever be awarded and honored by the Kuwait National Guard for her work in their training and readiness program.
+
+In 2010, Tulsi was elected to the Honolulu City Council, serving as Chair of the Safety, Economic Development, and Government Affairs Committee and Vice Chair of the Budget Committee. In 2011, she visited Indonesia as part of a peacekeeping training with the Indonesian Army. Tulsi was elected in 2012 to the United States House of Representatives, serving Hawaii’s 2nd District. She is one of the first two female combat veterans to ever serve in the U.S. Congress, and also its first Hindu member.
+
+Now in her third term in Congress, Tulsi brings with her a broad range of real world experience, a storehouse of personal strength, and tested leadership as she represents the people of Hawai’i and our nation in Congress. As she works on the challenges that face our country, she remains focused on bringing her pragmatic approach to working in a collaborative, bipartisan fashion to find real solutions that best serve the people. Tulsi serves on the House Armed Services Committee and House Foreign Affairs Committee where she is a strong advocate for veterans, our service members, and making smart strategic decisions that best secure our nation. Tulsi is working every day to make sure we have a sustainable economy that works for all families, with access to affordable health care, good jobs, and a quality education.
