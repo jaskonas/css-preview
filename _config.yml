@@ -1,7 +1,7 @@
 # Site wide configuration
 description: "The Center for the Study of Statesmanship promotes research, teaching, and public discussion about how statesmanship can defuse conflict and foster respectful foreign and domestic relations."
 locale: en
-path: atom.xml
+path: feed.xml
 teaser: CSS-Hero-Statesman-Philosophers.jpg
 title: "Center for the Study of Statesmanship"
 short_title: "CSS"
