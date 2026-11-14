@@ -1,0 +1,5 @@
+# Overlay for the temporary test deployment at www.jaskonas.com/css-preview/
+# (used by .github/workflows/preview.yml: jekyll build --config _config.yml,_config.preview.yml)
+url: https://www.jaskonas.com
+baseurl: /css-preview
+noindex: true

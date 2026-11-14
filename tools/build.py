@@ -113,7 +113,9 @@ def write_doc(coll, slug, fm, body):
         elif k == 'date': lines.append(f"{k}: {v}")
         else: lines.append(f"{k}: {yq(v)}")
     lines.append('---')
-    if '{{' in body or '{%' in body: body = '{% raw %}\n' + body + '\n{% endraw %}'
+    # escape literal Liquid delimiters, then make root-relative links baseurl-aware
+    body = re.sub(r'\{(?=[{%])', "{{ '{' }}", body)
+    body = re.sub(r'((?:href|src)=")/(?!/)', r'\1{{ site.baseurl }}/', body)
     open(os.path.join(d, slug + '.html'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n\n' + body + '\n')
 
 def text(el): return el.get_text(' ', strip=True) if el else ''
@@ -393,7 +395,7 @@ for f in glob.glob(os.path.join(SITE, '_*', '*.html')):
         elif path in valid or not path.startswith('/'): return m.group(0)
         unlinked[path] = unlinked.get(path, 0) + 1
         return m.group(2)
-    body2 = re.sub(r'<a href="([^"]*)"[^>]*>(.*?)</a>', fix, body, flags=re.S)
+    body2 = re.sub(r'<a href="(?:\{\{ site\.baseurl \}\})?([^"]*)"[^>]*>(.*?)</a>', fix, body, flags=re.S)
     if body2 != body: open(f, 'w', encoding='utf-8').write(head + sep + body2)
 for k, v in sorted(unlinked.items()): report.append(f'unlinked {v}x {k}')
 

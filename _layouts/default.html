@@ -14,6 +14,7 @@
     <link href="{{ '/feed.xml' | relative_url }}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ '/sitemap.xml' | relative_url }}" type="application/xml" rel="sitemap" title="Sitemap">
 
+    {% if site.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">

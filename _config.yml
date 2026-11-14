@@ -93,3 +93,4 @@ exclude:
   - node_modules
   - tmp
   - tools
+  - _config.preview.yml
